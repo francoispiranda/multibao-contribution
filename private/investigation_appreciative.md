@@ -1,28 +1,28 @@
-#L'investigation appréciative 
+#L'investigation appréciative
 
-##En une phrase  
+## En une phrase  
 
 L’investigation appréciative (AI) est une démarche TradeMark permettant de définir des orientations grâce aux forces/réussites passées et présente,plutôt que des problèmes.
 
-##A quoi ça sert ?
+## A quoi ça sert ?
 
 * Définition d'orientations stratégiques
 * Trouver des solutions
 * Optimisation (travail, organisation)
 * Gestion de conflits
 
-##Informations pratiques
+## Informations pratiques
 
 * **Nombre de participants** >12
 * **Durée préparation** minimum demi-journée
 * **Durée évènement**  de 2 demi-journées à non défini 
 * **Coût** peut être assez important pour la mise en place de la démarche "officielle"
 
-##Présentation 
+## Présentation 
 
-L’investigation appréciative (AI) permetdéfinir des orientations grâce aux forces/réussites passées et présentes. Méthode en Trademark.  Appelée également planification stratégique, elle fonctionne par étapes, au cours desquelles les participants vont explorer, en groupe de pilotage et en groupes plus vastes, des thématiques stratégiques. 
+L’investigation appréciative (AI) permet de définir des orientations grâce aux forces/réussites passées et présentes. Méthode en Trademark.  Appelée également planification stratégique, elle fonctionne par étapes, au cours desquelles les participants vont explorer, en groupe de pilotage et en groupes plus vastes, des thématiques stratégiques. 
 
-##Procédure 
+## Procédure 
 
 La méthode étant en TradeMark, il est impossible de livrer la méthode complète en Creative Commons. Cependant, voici un court texte de présentation avec les étapes de l'IA, que nous vous invitons à coupler avec des outils présentés sur l'interface. 
 
@@ -65,11 +65,11 @@ L’efficacité n’est pas à démontrer puisque les projets se déroulent dans
 Ce document, publié par l’Initiative du CGIAR pour l’apprentissage et le changement institutionnel (ILAC), offre aux lecteurs une synthèse actualisée de la méthode de l’investigation appréciative Il définit les concepts de base et décrit les différentes étapes du processus. Il comprend également le récit d’un exemple d’application de cette méthode.   http://www.neo-coaching.com/entreprise/investigation-appreciative.html (en francais)
 * http://www.employment-studies.co.uk/pdflibrary/mp53.pdf  (livre de l'investigation appréciative) 
 
-##Compilation, traduction et présentation
+## Compilation, traduction et présentation
 
 * Thomas WOLFF (Centre des pratiques de la coopération)
 
-##Sources:
+## Sources:
 * 1 Thomas Wolff, Centre des pratiques de la coopération, sous licence Creative Commons BY-SA
 * 2  Kstools.com, diffusé sous licence creative Commons BY-SA
 * 3  Carnicelli.eu, diffusé sous licence Creative Commons BY-NC-SA
