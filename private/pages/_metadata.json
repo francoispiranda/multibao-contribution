@@ -1,0 +1,16 @@
+{
+  "1": {
+    "slug": "presentation",
+    "title": "Présentation"
+  },
+  
+  "2": {
+    "slug": "nous_contacter",
+    "title": "Nous contacter"
+  },
+  
+  "3": {
+    "slug": "mentions_legales",
+    "title": "Mentions légales"
+  }
+}

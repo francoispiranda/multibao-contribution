@@ -1,0 +1,31 @@
+{ 
+  "2": {
+    "slug": "debat_mouvant",
+    "title": "Débat mouvant",
+    "tag": "CC BY-SA"
+  },
+  
+  "3": {
+    "slug": "kanban",
+    "title": "Kanban simplifié",
+    "tag": "CC BY-SA"
+  },
+  
+  "4": {
+    "slug": "fish_bowl",
+    "title": "Cercle excentrique",
+    "tag": "CC BY-SA"
+  },
+  
+  "5": {
+    "slug": "budget_participatif",
+    "title": "Budget participatif",
+    "tag": "CC BY-NC-SA"
+  },
+
+  "6": {
+    "slug": "investigation_appreciative",
+    "title": "Investigation appréciative",
+    "tag": "CC BY-NC-SA"
+  }
+}
