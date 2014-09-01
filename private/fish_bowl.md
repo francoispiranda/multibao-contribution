@@ -19,10 +19,9 @@ La démarche du Cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) 
 * Coût  faible si matériel (dont micros,...) déjà à disposition (C)
 
 ## Présentation 
-
 La technique du cercle excentrique (Fishbowl) implique un petit groupe de personnes (en général entre 5 et 8), assises en cercle, qui discutent devant un groupe plus grand d'auditeurs. Cette technique est une manière créative d'impliquer le "public" dans la discussion d'un petit groupe. Cette technique peut être utilisée dans plusieurs contextes tels que des ateliers, conférences, réunions organisationnelles et assemblées publiques. (B)
-Procédure 
 
+## Procédure 
 
 La discussion peut être une "conversation privée" au sein d'un groupe spécifique. Le plus souvent, une ou plusieurs chaises sont à la disposition des "visiteurs" (c'est-à-dire, les membres de l'audience) qui désirent poser des questions ou faire des commentaires. 
 
@@ -62,7 +61,6 @@ Chevalets ou du papier sur les murs pour l'enregistrement écrite ou graphique d
 * La disposition du lieu : même s'il est possible de mettre en place un Bowl fish dans un amphithéâtre (ex: pour impliquer les étudiants) ou sur une scène, les participants jugent très agréable, en relativement petit auditoire (<50), d'assister à un Bowl Fish en étant assis en cercle, au même niveau, que le cercle intérieur. (C)
 
 ## Compilation, traduction et présentation
-
 Guillaume DEPREZ (Centre des pratiques de la coopération)
 Caroline PICTON (relecture et vérification des sources)
 
