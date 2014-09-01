@@ -1,6 +1,6 @@
 #Budget participatif citoyen
 
-##En une phrase  
+## En une phrase  
 
 Démarche pérenne, souvent annuelle, au cours de laquelle les citoyens peuvent discuter et décider d'un budget public local (lycés, quartiers, villes...)
 
