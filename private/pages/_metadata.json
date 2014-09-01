@@ -12,5 +12,10 @@
   "3": {
     "slug": "mentions_legales",
     "title": "Mentions légales"
+  },
+
+  "4": {
+    "slug": "referent",
+    "title": "Trouver un référent"
   }
 }
