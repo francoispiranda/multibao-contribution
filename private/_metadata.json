@@ -32,5 +32,26 @@
     "slug": "investigation_appreciative",
     "title": "Investigation appréciative",
     "tag": "CC BY-NC-SA"
+  },
+  
+  "7": {
+    "updated": "01/09/2014",
+    "slug": "world_cafe",
+    "title": "World café",
+    "tag": "CC BY-SA"
+  },
+  
+  "8": {
+    "updated": "01/09/2014",
+    "slug": "brain_storming",
+    "title": "Brain storming",
+    "tag": "CC BY-SA"
+  },
+  
+  "9": {
+    "updated": "01/09/2014",
+    "slug": "forum_ouvert",
+    "title": "Forum ouvert",
+    "tag": "CC BY-SA"
   }
 }
