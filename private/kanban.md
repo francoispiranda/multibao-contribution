@@ -27,7 +27,7 @@ Voir ["Kanban in 4 easy steps" sur SlideShare](http://fr.slideshare.net/kanbanto
   - tâches en cours (en cours)
   - tâches terminées (réalisées)
   - tâches en attente de traitement par personne extérieure au projet (en attente) 
-![Prise de vue d'un Kanban](/kanban_photo.jpg)
+![Prise de vue d'un Kanban](/contribution/kanban_photo.jpg)
 
 3.Indiquez sur des post-its les tâches, et répartissez les dans dans les colonnes correspondant à l'état d'avancement de la tâche. 
 
@@ -38,7 +38,7 @@ Conseils :
   - Individuellement, prenez l'habitude de ne pas surcharger la colonne "en cours" mais plutôt de traiter quelques tâches à la fois, de manière à pouvoir s'y concentrer et ne pas se laisser submerger par le stress devant la liste de tâches à réaliser. 
   - Possibilité de conserver les post-its des tâches "terminées". 
 
-![Kanban numérique](/kanban_numerique.jpg)
+![Kanban numérique](/contribution/kanban_numerique.jpg)
 
 *Kanban numérique*
 

@@ -17,7 +17,7 @@ Le débat mouvant (encore appelé Jeu de positionnement) est une forme de débat
 Le débat mouvant est surtout connu dans les milieux d'éducation populaire et éducation à l'environnement car il offre une alternative ludique au débat classique. Il stimule les participants grâce à la dynamique du corps en les incitant à se déplacer dans l'espace. L'emplacement de chacun symbolise les points de vues, il devient alors plus facile de prendre la parole pour argumenter sa "position", et d'indiquer son changement d'opinion au fur et à mesure des échanges.
 
 ## Procédure 
-1. Un animateur raconte une histoire volontairement polémique. Il propose à certains moments clés de l'histoire aux participants de se positionner physiquement dans la salle, "ceux qui ne sont pas d'accord avec ce qui vient d'être dit se place d'un côté, ceux qui sont d'accord de l'autre". (1) ![Schéma Débat mouvant](/debatmouvant_schema.png)
+1. Un animateur raconte une histoire volontairement polémique. Il propose à certains moments clés de l'histoire aux participants de se positionner physiquement dans la salle, "ceux qui ne sont pas d'accord avec ce qui vient d'être dit se place d'un côté, ceux qui sont d'accord de l'autre". (1) ![Schéma Débat mouvant](/contribution/debatmouvant_schema.png)
 2. Personne n'a le droit de rester au milieu (sans avis), le fait de se déplacer réellement pousse à choisir un camp et des arguments.    
 3. Une fois que tout le monde a choisi "son camp", l'animateur demande qui veut prendre la parole pour expliquer son positionnement.    
 4. Pour initier le débat, il peut commencer par demander qui est fortement positionné par rapport à ce qu'il vient de dire.
