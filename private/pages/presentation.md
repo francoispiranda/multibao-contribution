@@ -44,4 +44,4 @@ Pour toute question générale :
 
 *Thomas WOLFF*  
 *[thomas.wolff@cpcoop.fr](mailto:thomas.wolff@cpcoop.fr)*  
-*ou [tel:+33642459781](06-42-45-97-81) (entre 9h et 19h)*  
+*ou tél : [06 42 45 97 81](tel:33642459781) (entre 9h et 19h)*  
