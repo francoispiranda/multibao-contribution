@@ -154,6 +154,7 @@ Pendant ces deux journées, il était frappant de voir à quel point l’enthous
 ### Limites 
 * Une des limites majeures de ce type d’organisation réside aussi dans ses qualités : le manque d’organisation et de figure de « leader » afin de gérer le débat et en extraire des éléments clairs.
 * Risque de manque de neutralité des secrétaires. **(1)** 
+* Le suivi est indispensable. Le rôle de la structure animatrice est très important dans le suivi. **(3)**
 
 ## Compilation, traduction et présentation
 
