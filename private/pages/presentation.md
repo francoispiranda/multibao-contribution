@@ -1,6 +1,8 @@
 # Présentation
 
-**multi BàO** (multi boîtes à outils) est une plateforme en construction vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + référents de terrain) pour coopérer. Depuis 2009, nous y réfléchissons, vous y réfléchissez. Depuis 2013, vous/nous avez/avons compilé dans chacune de nos communautés, réseaux, plus de 200 fiches outils / méthodes; une des plus grosses boîtes à outils du web qui a constitué notre [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa?dl=0 "base de données brutes"), sur laquelle tout est piochable selon différentes licences libres. Depuis 2014, nous l'imaginons avec vous et la développons : bienvenue sur le site adaptatif http://multibao.org
+**multi BàO** (multi boîtes à outils) est une plateforme en construction vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + référents de terrain) pour coopérer. 
+
+Depuis 2009, nous y réfléchissons, vous y réfléchissez. Depuis 2013, vous/nous avez/avons compilé dans chacune de nos communautés, réseaux, plus de 200 fiches outils / méthodes; une des plus grosses boîtes à outils du web qui a constitué notre [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa?dl=0 "base de données brutes"), sur laquelle tout est piochable selon différentes licences libres. Depuis 2014, nous imaginons une telle plateforme avec vous et la développons : bienvenue sur le site adaptatif http://multibao.org
 
 **multi BàO** interconnecte, renvoie vers et s'inspire des bonnes pratiques de trois communautés rarement reliées:
 
