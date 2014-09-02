@@ -2,24 +2,24 @@
 
 ## En une phrase  
 
-La démarche du Cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) est une manière d'impliquer un plus grand groupe dans la discussion d'un plus petit groupe (5 – 8 personnes); son principe de base est qu'un participant doit écouter et attendre avant de s'exprimer. (C)
+La démarche du Cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) est une manière d'impliquer un plus grand groupe dans la discussion d'un plus petit groupe (5 – 8 personnes); son principe de base est qu'un participant doit écouter et attendre avant de s'exprimer. **(3)** 
 
 ## À quoi ça sert ?
 
 * Favoriser l'écoute dans un groupe 
 * Impliquer un grand groupe dans la discussion d'un petit groupe
 * Conférences/ateliers/débats avec "experts"
-* Conférences/ateliers/débats avec citoyens (C)
+* Conférences/ateliers/débats avec citoyens **(3)** 
 
 ## Informations pratiques
 
 * Nombre de participants  pour le cercle central, de 3 à 8 participants. A l'extérieur du cercle central: non défini. 
 * Durée préparation peut être très rapide
 * Durée évènement  prévoir minimum une heure
-* Coût  faible si matériel (dont micros,...) déjà à disposition (C)
+* Coût  faible si matériel (dont micros,...) déjà à disposition **(3)** 
 
 ## Présentation 
-La technique du cercle excentrique (Fishbowl) implique un petit groupe de personnes (en général entre 5 et 8), assises en cercle, qui discutent devant un groupe plus grand d'auditeurs. Cette technique est une manière créative d'impliquer le "public" dans la discussion d'un petit groupe. Cette technique peut être utilisée dans plusieurs contextes tels que des ateliers, conférences, réunions organisationnelles et assemblées publiques. (B)
+La technique du cercle excentrique (Fishbowl) implique un petit groupe de personnes (en général entre 5 et 8), assises en cercle, qui discutent devant un groupe plus grand d'auditeurs. Cette technique est une manière créative d'impliquer le "public" dans la discussion d'un petit groupe. Cette technique peut être utilisée dans plusieurs contextes tels que des ateliers, conférences, réunions organisationnelles et assemblées publiques. **(2)** 
 
 ## Procédure 
 
@@ -47,25 +47,25 @@ Chevalets ou du papier sur les murs pour l'enregistrement écrite ou graphique d
 *  Le public en dehors du cercle de parole écoute la discussion. Dans un OC, tout membre du public peut, à tout moment, occuper la chaise vide et rejoindre le cercle de parole. Lorsque cela se produit, un membre existant du cercle de parole doit quitter volontairement le cercle de parole et une chaise devient libre. La discussion continue avec la possibilité pour les participants d'entrer et quitter le cercle. 
 *  Selon la taille de votre auditoire, vous pouvez avoir beaucoup de spectateurs qui passent un certain temps dans le cercle de parole et qui prennent part à la discussion. Quand le temps vient à manquer, le cercle de parole est fermé et l'animateur résume la discussion.
 *  Une variation immédiate de cela est d'avoir seulement deux chaises dans le groupe central. Quand quelqu'un dans le public veut se joindre à la conversation à deux voies, ils viennent vers l'avant et appuyez sur l'épaule de la personne qu'ils veulent remplacer, à un moment où ils ne parlent pas. L'orateur taraudé doit alors revenir aux cercles extérieurs, étant remplacé par le nouveau président, qui porte sur la conversation à leur place.
-*  Dans un CC, les premiers participants parlent un certain temps. Quand le temps vient à manquer, ils quittent le bocal et un nouveau groupe de l'auditoire entre dans le cercle de parole. Cela continue jusqu'à ce que de nombreux membres de l'auditoire aient passé un certain temps dans le cercle de parole. Une fois que le dernier groupe a conclu, le modérateur ferme le cercle de parole et résume la discussion.(A)
+*  Dans un CC, les premiers participants parlent un certain temps. Quand le temps vient à manquer, ils quittent le bocal et un nouveau groupe de l'auditoire entre dans le cercle de parole. Cela continue jusqu'à ce que de nombreux membres de l'auditoire aient passé un certain temps dans le cercle de parole. Une fois que le dernier groupe a conclu, le modérateur ferme le cercle de parole et résume la discussion.**(1)** 
 
 
 ## Avantages et limites 
 
 ### Avantages 
-* Très flexible (C)
-* Favorise l'écoute et une participation basée sur l'écoute (C)
-* Possibilité de s'en servir même dans des salles qui ne sembleraient au premier abord pas adaptées, comme par exemple un amphithéâtre; l'idée de base à conserver: il faut écouter et attendre avant de parler. (C)
+* Grande force : favorise l'écoute **(3)**
+* Très flexible : utilisable dans tout contexte pour favoriser l'écoute**(3)**
+* Possibilité de s'en servir même dans des salles qui ne sembleraient au premier abord pas adaptées, comme par exemple un amphithéâtre; l'idée de base à conserver: il faut écouter et attendre avant de parler. **(3)**
 
 ### Limites 
-* La disposition du lieu : même s'il est possible de mettre en place un Bowl fish dans un amphithéâtre (ex: pour impliquer les étudiants) ou sur une scène, les participants jugent très agréable, en relativement petit auditoire (< 50), d'assister à un Bowl Fish en étant assis en cercle, au même niveau, que le cercle intérieur. (C)
+* La disposition du lieu : même s'il est possible de mettre en place un Bowl fish dans un amphithéâtre (ex: pour impliquer les étudiants) ou sur une scène, les participants jugent très agréable, en relativement petit auditoire (< 50), d'assister à un Bowl Fish en étant assis en cercle, au même niveau, que le cercle intérieur. **(3)**
 
 ## Compilation, traduction et présentation
-Guillaume DEPREZ (Centre des pratiques de la coopération)
+Guillaume DEPREZ (compilation)
 Caroline PICTON (relecture et vérification des sources)
 
 ## Sources
 
-* A : http://www.kstoolkit.org/Cercle+excentrique, licence Creative Commons BY SA
-* B : http://en.wikipedia.org/wiki/Fishbowl_%28conversation%29, licence Creative Commons BY SA
-* C Thomas WOLFF, Centre des pratiques de la coopération http://www.cpcoop.fr, sous licence Creative Commons BY-SA
+* **(1)** [KStools](http://www.kstoolkit.org/Cercle+excentrique), sous licence Creative Commons BY SA
+* **(2)** [Wikipedia](http://en.wikipedia.org/wiki/Fishbowl_%28conversation%29), sous licence Creative Commons BY SA
+* **(3)** Thomas WOLFF, [association Centre des pratiques de la coopération](http://www.cpcoop.fr), sous licence Creative Commons BY-SA
