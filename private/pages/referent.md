@@ -12,11 +12,11 @@ Comme test, nous proposons un classement couleur par niveau de licence du conten
 **Jean Dupont**
 * __Thématique:__ concertation territoriale
 * __Réseaux:__ institut concertation, pôle sup...
-* __Localisé :__ rue Jean, Montpellier
-* __Site :__ http://dupontoudupond.com
-* __Tel :__ 06 78 95 15 48 
-* __Mail :__ jean.dupont@dupontoudupond.com
-* __Licence :__ Creative Commons BY-SA
+* __Localisé:__ rue Jean, Montpellier
+* __Site:__ http://dupontoudupond.com
+* __Tel:__ 06 78 95 15 48 
+* __Mail:__ jean.dupont@dupontoudupond.com
+* __Licence:__ Creative Commons BY-SA
 
 
 
