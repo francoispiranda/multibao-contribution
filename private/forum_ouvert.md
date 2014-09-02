@@ -11,10 +11,11 @@ Le Forum ouvert est une structure de parole permettant à un nombre non limité 
 * Favoriser une véritable émulation **(3)**
 
 ## Informations pratiques
-**Nombre de participants**  10 personnes et +
-**Durée préparation** très variable
-**Durée évènement** quelques heures à 1 semaine
-**Coût** très variable  **(2)**
+
+* **Nombre de participants**  10 personnes et +
+* **Durée préparation** très variable
+* **Durée évènement** quelques heures à 1 semaine
+* **Coût** très variable  **(2)**
 
 ## Présentation 
 
