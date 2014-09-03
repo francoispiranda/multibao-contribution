@@ -58,7 +58,7 @@ Chevalets ou du papier sur les murs pour l'enregistrement écrite ou graphique d
 
 ### Avantages 
 * Grande force : favorise l'écoute **(3)**
-* Très flexible : utilisable dans tout contexte pour favoriser l'écoute**(3)**
+* Très flexible : utilisable dans tout contexte pour favoriser l'écoute **(3)**
 * Possibilité de s'en servir même dans des salles qui ne sembleraient au premier abord pas adaptées, comme par exemple un amphithéâtre; l'idée de base à conserver: il faut écouter et attendre avant de parler. **(3)**
 
 ### Limites 
