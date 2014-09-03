@@ -15,7 +15,7 @@ Le Brainstorming est une méthode participative utilisée pour générer des id�
 ## Informations pratiques
 **Nombre de participants**  à partir de 4 participants (l'animateur est partie prenante), pas de maximum, l'optimum étant 15 participants
 **Durée préparation** très courte
-**Durée évènement** 30 min à 2 heures **([1](#1)**
+**Durée évènement** 30 min à 2 heures **([1](#1))**
 **Coût** tout dépend de la technologie que vous allez utiliser. Des post-it, napes blanches avec feutres etc. **(3)**
 
 ## Présentation 
