@@ -156,7 +156,7 @@ Afin de poursuivre les dynamiques et les échanges entre acteurs créés par le 
 
 ## Sources
 
-* **(1)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), sous licence Creative Commons BY-NCSASA
+* **(1)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), sous licence Creative Commons BY-NC-SA
 * **(2)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
 * **(3)** [FabLab Quebec](http://fablabs-quebec.org), sous licence Creative Commons BY-SA
 * **(4)** [Co-creative recipes](http://www.co-creative-recipes.cc), sous licence Creative Commons BY-SA
