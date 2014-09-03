@@ -22,7 +22,7 @@ L’investigation appréciative (AI) est une méthode permettant de définir des
 
 ## Présentation 
 
-L’investigation appréciative (AI) permet de définir des orientations grâce aux forces/réussites passées et présentes. Méthode en Trademark.  Appelée également planification stratégique, elle fonctionne par étapes, au cours desquelles les participants vont explorer, en groupe de pilotage et en groupes plus vastes, des thématiques stratégiques. **(1)**
+L’investigation appréciative (AI) permet de définir des orientations grâce aux forces/réussites passées et présentes. Appelée également planification stratégique, elle fonctionne par étapes, au cours desquelles les participants vont explorer, en groupe de pilotage et en groupes plus vastes, des thématiques stratégiques. **(1)**
 
 ## Procédure 
 
