@@ -13,10 +13,10 @@ Le débat mouvant est une méthode de débat dynamique favorisant l'émulation e
 ![imagedébatmouvant](http://ebook.coop-tic.eu/francais/cache/image_bf_imagedebat.jpg) **(4)**
 
 ## Informations pratiques 
-**Nombre de participants** 8-50 
-**Durée préparation** assez courte
-**Durée évènement** 1h-2h 
-**Coût** faible **(2)**
+* **Nombre de participants** 8-50 
+* **Durée préparation** assez courte
+* **Durée évènement** 1h-2h 
+* **Coût** faible **(2)**
 
 ## Présentation
 Le débat mouvant est surtout connu dans les milieux d'éducation populaire et éducation à l'environnement car il offre une alternative ludique au débat classique. Il stimule les participants grâce à la dynamique du corps en les incitant à se déplacer dans l'espace. L'emplacement de chacun symbolise les points de vues, il devient alors plus facile de prendre la parole pour argumenter sa "position", et d'indiquer son changement d'opinion au fur et à mesure des échanges. **(1)**
@@ -58,9 +58,9 @@ Il est possible d'insister, au début du débat, sur le fait de prendre un laps 
 * Certains participants peu à l'aise en groupe ou avec la logique argumentaire peuvent se sentir exclus, cette méthode débat doit être complétée avec d'autres formes de débat en fonction du temps, des participants et des objectifs. **(4)**
 
 ## Compilation, traduction et présentation 
-Guillaume Deprez (Centre des pratiques de la coopération)
-Thomas Wolff (Centre des pratiques de la coopération)
-Caroline Picton     
+* Guillaume Deprez (Université de Bordeaux Segalen)
+* Thomas Wolff (Centre des pratiques de la coopération)
+* Caroline Picton     
 
 ### Sources
 * **(1)** [Association Outils Réseaux](http://outils-reseaux.org/DebatMouvant), sous licence Creative Commons BY-SA
