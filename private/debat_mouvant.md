@@ -18,12 +18,14 @@ Le débat mouvant est une méthode de débat dynamique favorisant l'émulation e
 **Durée évènement** 1h-2h 
 **Coût** faible **(2)**
 
-## Présentation## 
+## Présentation
 Le débat mouvant est surtout connu dans les milieux d'éducation populaire et éducation à l'environnement car il offre une alternative ludique au débat classique. Il stimule les participants grâce à la dynamique du corps en les incitant à se déplacer dans l'espace. L'emplacement de chacun symbolise les points de vues, il devient alors plus facile de prendre la parole pour argumenter sa "position", et d'indiquer son changement d'opinion au fur et à mesure des échanges. **(1)**
 
 ## Procédure 
-1. Un animateur raconte une histoire volontairement polémique. Il propose à certains moments clés de l'histoire aux participants de se positionner physiquement dans la salle, "ceux qui ne sont pas d'accord avec ce qui vient d'être dit se place d'un côté, ceux qui sont d'accord de l'autre". **(1)** 
-![Schéma Débat mouvant](/contribution/debatmouvant_schema.png)
+
+![débatmouvant](http://semerlacitoyennete.files.wordpress.com/2013/07/hpim2965.jpg?w=300&h=225) **(5)**
+
+1. Un animateur raconte une histoire volontairement polémique. Il propose à certains moments clés de l'histoire aux participants de se positionner physiquement dans la salle, "ceux qui ne sont pas d'accord avec ce qui vient d'être dit se place d'un côté, ceux qui sont d'accord de l'autre".
 2. Personne n'a le droit de rester au milieu (sans avis), le fait de se déplacer réellement pousse à choisir un camp et des arguments.    
 3. Une fois que tout le monde a choisi "son camp", l'animateur demande qui veut prendre la parole pour expliquer son positionnement.
 4. Pour initier le débat, il peut commencer par demander qui est fortement positionné par rapport à ce qu'il vient de dire.
@@ -65,3 +67,4 @@ Caroline Picton
 * **(2)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA 
 * **(3)** [Association RECIT](http://www.recit.net/?Le-debat-mouvant), avec leur aimable autorisation
 * **(4)** Frédéric Renier, Supagro Florac, sous licence Creative Commons BY-SA
+* **(5)** [Semer la citoyenneté](http://semerlacitoyennete.wordpress.com/2013/07/), sous licence Creative Commons BY-NC-SA
