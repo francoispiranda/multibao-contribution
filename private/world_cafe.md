@@ -95,6 +95,8 @@ Les propositions sont ensuite synthétisées par écrit par les organisateurs et
 
 #### CADRE
 
+![CCC](http://www.auc-ign.org/pub/images/cccFrance.jpg)
+
 Pour encourager la recherche de solutions communes pour une restauration collective responsable, la Fondation Nicolas Hulot et le Comité de coordination des collectivités (CCC-France) ont mis en place depuis 2011 des méthodes de concertation entre les divers acteurs de la filière : ce sont « les journées de la restauration collective responsable ».
 
 Ces journées se sont déroulées entre décembre 2011 et janvier 2012 dans trois régions de France (Pays de la Loire, Midi-Pyrénées et Picardie) avec la méthode du World café.
