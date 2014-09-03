@@ -29,7 +29,7 @@ La discussion peut être une "conversation privée" au sein d'un groupe spécifi
 
 Lorsque les personnes qui se trouvent au centre de la discussion sont des fonctionnaires ou des décideurs, cette technique peut apporter la transparence du processus de prise de décision et accroître la confiance et la compréhension de questions complexes. 
 
-Bien que l'ensemble de la discussion se structure toute seule, une fois lancée elle bénéficie de la présence d'un animateur ou d'un modérateur. Le plus souvent, le cercle excentrique fait partie d'un débat plus ample.
+Bien que l'ensemble de la discussion se structure toute seule, une fois lancée elle bénéficie de la présence d'un animateur ou d'un modérateur. Le plus souvent, le cercle excentrique fait partie d'un débat plus ample. **(1)** 
 
 ## Mise en place:
 Comment implanter un processus de cercle excentrique:
@@ -41,7 +41,7 @@ Quelques chaises dans un cercle intérieur (élevé si nécessaire pour être vi
 Anneaux concentriques de chaises et / ou tables rondes autour du cercle intérieur;
 Penser aux allées pour permettre un accès facile au cercle intérieur
 Microphones si nécessaire
-Chevalets ou du papier sur les murs pour l'enregistrement écrite ou graphique des idées clés est parfois utile
+Chevalets ou du papier sur les murs pour l'enregistrement écrite ou graphique des idées clés est parfois utile **(1)** 
 
 
 ### Détails:
