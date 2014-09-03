@@ -11,6 +11,8 @@ La démarche du Cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) 
 * Conférences/ateliers/débats avec "experts"
 * Conférences/ateliers/débats avec citoyens **(3)** 
 
+![Cercle excentrique](http://www.aohmontreal.org/wp-content/uploads/2014/04/IMG_0024-1140x500.jpg) **(4)**
+
 ## Informations pratiques
 
 * Nombre de participants  pour le cercle central, de 3 à 8 participants. A l'extérieur du cercle central: non défini. 
@@ -69,3 +71,5 @@ Caroline PICTON (relecture et vérification des sources)
 * **(1)** [KStools](http://www.kstoolkit.org/Cercle+excentrique), sous licence Creative Commons BY SA
 * **(2)** [Wikipedia](http://en.wikipedia.org/wiki/Fishbowl_%28conversation%29), sous licence Creative Commons BY SA
 * **(3)** Thomas WOLFF, [association Centre des pratiques de la coopération](http://www.cpcoop.fr), sous licence Creative Commons BY-SA
+* **(4)** Communauté [AOH Montreal](http://www.aohmontreal.org/valoriser-et-honorer-lexpertise-dans-les-processus-participatifs/), sous licence Creative Commons BY-SA
+
