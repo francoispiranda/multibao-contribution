@@ -6,9 +6,8 @@ Bienvenue sur la première version de multiBàO : multiBàO 1.0. C'est pas bien 
 
 Bref, on avance par tous petits pas avec vous. 
 
-![On ne prédit pas, on demande](http://prisemarteau.files.wordpress.com/2014/02/voyance.jpg)
-
-Bref vous l'aurez compris, c'est participatif et on ne prédit pas : on demande!
+[On ne prédit pas, on demande](http://prisemarteau.files.wordpress.com/2014/02/voyance.jpg)
+Vous l'aurez compris l'idée: c'est participatif, sous licences libres et on ne prédit pas : on demande!
 
 **multi BàO** interconnecte, renvoie vers et s'inspire des bonnes pratiques de trois communautés assez rarement reliées:
 
