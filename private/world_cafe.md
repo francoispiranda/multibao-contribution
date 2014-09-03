@@ -6,8 +6,9 @@ Structure de parole interactive permettant de générer des idées par un groupe
 
 ## À quoi ça sert ?
 
-* Processus de dialogue authentique **(2)**
-* Permet la génération et la pollinisation d'idées **(2)**
+* Explorer une thématique **(2)**
+* Générer une réflexion collective sur un sujet **(2)**
+* Monter en "intelligence collective" sur un sujet : les groupes en s'interconnectant vont favoriser la pollinisation des idées **(2)**
 
 ![Worldcafé](http://fablabs-quebec.org/wp-content/uploads/2013/03/2013-03-04_LaPoc_1.jpg) **(3)**
 
