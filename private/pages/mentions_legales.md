@@ -7,7 +7,7 @@ Thomas WOLFF : [thomas@multibao.org](mailto:thomas@multibao.org)
 [06 42 45 97 81](tel:33642459781)
 
 **Facilitation web**  
-Stéphane LANGLOIS : [stephane.langlois@scopyleft.fr](stephane.langlois@scopyleft.fr)  
+Stéphane LANGLOIS : [stephane.langlois@scopyleft.fr](mailto:stephane.langlois@scopyleft.fr)  
 [06 11 78 25 63](tel:33611782563)
 
 **Hébergeur**  
@@ -19,7 +19,7 @@ San Francisco, CA 94103
 **Structure juridique porteuse**  
 BàO est pour l'instant un collectif non formel, avec un comité de pîlotage composé de membres de plusieures associations et universités, financé par l'Europe.
 
-Le temps de la création de sa structure juridique et de sa formalisation, le présent interface est porté par les équipes bénévoles de l'association du Centre des pratiques de la coopération, 12 rue des Pins, 34000 Montpellier, [mailto:contact@cpcoop.fr](contact@cpcoop.fr)  
+Le temps de la création de sa structure juridique et de sa formalisation, le présent interface est porté par les équipes bénévoles de l'association du Centre des pratiques de la coopération, 12 rue des Pins, 34000 Montpellier, [contact@cpcoop.fr](mailto:contact@cpcoop.fr)  
 [cpcoop.fr](http://cpcoop.fr)
 
 ### Conditions générales d’utilisation du site et des services proposés.
