@@ -6,10 +6,7 @@
         "address": "Centre des pratiques de la coopération\n12 rues des Pins, 34000 Montpellier",
         "email": "fanny.monod@cpcoop.fr",
         "phone": "06 18 99 48 83",
-        "licenses": [
-            "Creative Commons",
-            "MIT (5/5)"
-        ]
+        "license": "cc-by-nc-sa"
     },
     {
         "title": "Scopyleft",
@@ -18,8 +15,6 @@
         "address": "5 Chemin de la Magnanerie, 34830 Clapiers",
         "email": "stephane.langlois@scopyleft.fr",
         "phone": "06 11 78 25 63",
-        "licenses": [
-            "MIT (5/5)"
-        ]
+        "license": "mit"
     }
 ]

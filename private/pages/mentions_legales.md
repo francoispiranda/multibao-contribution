@@ -3,7 +3,7 @@
 ### Informations générales
 
 **Responsable publication**
-Thomas WOLFF : [thomas@multibao.org](mailto:thomas@multibao.org)  
+Thomas WOLFF : [thomas@multibao.org](mailto:thomas@multibao.org)
 [06 42 45 97 81](tel:33642459781)
 
 **Facilitation web**
