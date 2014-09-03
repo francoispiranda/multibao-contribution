@@ -161,4 +161,4 @@ Afin de poursuivre les dynamiques et les échanges entre acteurs créés par le 
 * **(2)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
 * **(3)** [FabLab Quebec](http://fablabs-quebec.org), sous licence Creative Commons BY-SA
 * **(4)** [Co-creative recipes](http://www.co-creative-recipes.cc), sous licence Creative Commons BY-SA
-* Bilan national des journées de la restauration collective responsable, Fondation Nicolas Hulot. (http://www.fondation-nicolas-hulot.org/sites/default/files/pdf/publications/Bilan_national_journees_RCR.pdf)
+* [Bilan national des journées de la restauration collective responsable, Fondation Nicolas Hulot.](http://www.fondation-nicolas-hulot.org/sites/default/files/pdf/publications/Bilan_national_journees_RCR.pdf)
