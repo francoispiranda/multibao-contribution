@@ -2,24 +2,24 @@
 
 ### Informations générales
 
-**Responsable publication**  
+**Responsable publication**
 Thomas WOLFF : [thomas@multibao.org](mailto:thomas@multibao.org)  
 [06 42 45 97 81](tel:33642459781)
 
-**Facilitation web**  
+**Facilitation web**
 Stéphane LANGLOIS : [stephane.langlois@scopyleft.fr](mailto:stephane.langlois@scopyleft.fr)  
 [06 11 78 25 63](tel:33611782563)
 
-**Hébergeur**  
-[Meteor](www.meteor.com)
-Meteor Development Group  
-140 10th Street  
-San Francisco, CA 94103  
+**Hébergeur**
+[Meteor](http://www.meteor.com)
+Meteor Development Group
+140, 10th Street
+San Francisco, CA 94103
 
-**Structure juridique porteuse**  
+**Structure juridique porteuse**
 BàO est pour l'instant un collectif non formel, avec un comité de pîlotage composé de membres de plusieures associations et universités, financé par l'Europe.
 
-Le temps de la création de sa structure juridique et de sa formalisation, le présent interface est porté par les équipes bénévoles de l'association du Centre des pratiques de la coopération, 12 rue des Pins, 34000 Montpellier, [contact@cpcoop.fr](mailto:contact@cpcoop.fr)  
+Le temps de la création de sa structure juridique et de sa formalisation, le présent interface est porté par les équipes bénévoles de l'association du Centre des pratiques de la coopération, 12 rue des Pins, 34000 Montpellier, [contact@cpcoop.fr](mailto:contact@cpcoop.fr) -
 [cpcoop.fr](http://cpcoop.fr)
 
 ### Conditions générales d’utilisation du site et des services proposés.
@@ -28,7 +28,7 @@ L’utilisation du site http://multibao.org implique l’acceptation pleine et e
 
 ### Description des services fournis.
 
-Le site http://multibao.org a pour objet d'interconnecter des ressources sous licence libre issues du web pour permettre à un utilisateur de trouver la bonne ressource pour coopérer. 
+Le site http://multibao.org a pour objet d'interconnecter des ressources sous licence libre issues du web pour permettre à un utilisateur de trouver la bonne ressource pour coopérer.
 
 Nous nous efforçons de maintenir des informations aussi précises que possibles, notamment conformément aux licences et aux auteurs cités. Toutefois, il ne pourra être tenue responsable des omissions, des inexactitudes et des carences dans la mise à jour, qu’elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations.
 
@@ -38,25 +38,25 @@ Tous les informations indiquées sur le site http://multibao.org sont données �
 
 Le site utilise le language Markdown, Javascript.
 Il est lié à la plateforme Guithub et son fonctionnement est fourni en licence libre MIT sur la plateforme.
-L'ensemble des fiches sont fournies en licence libre, avec des particularités propres à chaque fiche. 
+L'ensemble des fiches sont fournies en licence libre, avec des particularités propres à chaque fiche.
 
 Le site Internet ne pourra être tenu responsable de dommages matériels liés à l’utilisation du site. De plus, l’utilisateur du site s’engage à accéder au site en utilisant un matériel récent, ne contenant pas de virus et avec un navigateur de dernière génération mis-à-jour
 
 ### Propriété intellectuelle et contrefaçons.
 
-L'ensemble du fonctionnement du site, propriété intellectuelle de [scopylef](http://scopyleft.fr), est fourni sous licence libre MIT pour permettre sa réutilisation libre. 
+L'ensemble du fonctionnement du site, propriété intellectuelle de [scopyleft](http://scopyleft.fr), est fourni sous licence libre MIT pour permettre sa réutilisation libre.
 
-L'ensemble des fiches sont fournies en licence libre, chaque fiche possédant ses propres niveaux de licence et affilications à des auteurs possédant la propriété intellectuelles. 
+L'ensemble des fiches sont fournies en licence libre, chaque fiche possédant ses propres niveaux de licence et affilications à des auteurs possédant la propriété intellectuelles.
 
 BàO est propriétaire des droits de propriété intellectuelle ou détient les droits d’usage sur tous les éléments accessibles sur le site, notamment les textes, images, graphismes, logo, icônes, sons, logiciels.
 
-Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est encouragée. Nous invitons vivement l'utilisateur à respecter les différentes licences réglementant la propriété intellectuelle des documents mis à disposition. 
+Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est encouragée. Nous invitons vivement l'utilisateur à respecter les différentes licences réglementant la propriété intellectuelle des documents mis à disposition.
 
 Toute exploitation non autorisée du site ou de l’un quelconque des éléments qu’il contient sera considérée comme constitutive d’une contrefaçon et poursuivie conformément aux dispositions des articles L.335-2 et suivants du Code de Propriété Intellectuelle.
 
 ### Limitations de responsabilité.
 
-BàO ne pourra être tenu responsable du mauvais usage d'un document, notamment lorsque son utilisation n'est pas conforme aux licences sous lesquelles le document a été publié. 
+BàO ne pourra être tenu responsable du mauvais usage d'un document, notamment lorsque son utilisation n'est pas conforme aux licences sous lesquelles le document a été publié.
 
 BàO ne pourra être tenu responsable des dommages directs et indirects causés au matériel de l’utilisateur, lors de l’accès au site http://multibao.org, et résultant soit de l’utilisation d’un matériel ne répondant pas aux spécifications indiquées, soit de l’apparition d’un bug ou d’une incompatibilité.
 
@@ -74,7 +74,7 @@ En tout état de cause BàO ne collecte des informations personnelles relatives 
 
 Conformément aux dispositions des articles 38 et suivants de la loi 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, tout utilisateur dispose d’un droit d’accès, de rectification et d’opposition aux données personnelles le concernant, en effectuant sa demande écrite et signée, accompagnée d’une copie du titre d’identité avec signature du titulaire de la pièce, en précisant l’adresse à laquelle la réponse doit être envoyée.
 
-Le site est déclaré à la CNIL sous le numéro suivant : , car il receuille des informations de type : 
+Le site est déclaré à la CNIL sous le numéro suivant : , car il receuille des informations de type :
 
 Les bases de données sont protégées par les dispositions de la loi du 1er juillet 1998 transposant la directive 96/9 du 11 mars 1996 relative à la protection juridique des bases de données.
 

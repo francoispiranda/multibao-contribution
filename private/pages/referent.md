@@ -1,6 +1,6 @@
-# Trouver un référent 
+# Trouver un référent
 
-Dans cette *application beta*, une personne morale ou physique peut se positionner comme référent sur un territoire en remplissant un formulaire.
+Dans ce prototype, une personne morale ou physique peut se positionner comme référent sur un territoire en remplissant un formulaire.
 
 Se positionner comme référent, ou positionner une association comme référent, c'est la possibilité d'être contacté dans le cas d'une demande particulière.
 

@@ -15,4 +15,4 @@ Pour participer aux interviews, toute question générale relative au projet, me
 Je suis à la recherche d'un outil / méthode, et je ne sais pas comment faire
 ---
 1. Tu sms au 06 42 45 97 81, réponse sous 20 minutes.
-2. Tu écris un message sur le chat ci dessous, comptes 20 minutes et un(e) référent(e) te répondra.
+2. Tu écris un message sur le chat ci-dessous, comptes 20 minutes et un(e) référent(e) te répondra.
