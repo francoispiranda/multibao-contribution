@@ -1,11 +1,22 @@
 # Nous contacter
 
-Derrière le projet BàO se cache une petite équipe, dont nous ferons une présentation dans quelques temps. 
+Si vous avez lu la [page de présentation](http://www.multibao.org/page/presentation) vous avez découvert que nous fonctionnons par des séries de test que nous vous soumettons : soit ça correspond à ce que vous souhaitez et on gagne (*earn*), soit ça ne correspond pas, on rectifie le tir et on apprend (*learn*). 
 
-Le développement de la plateforme, réalisée sur mesure par rapport aux utilisateurs, se fait en lien entre une équipe de développement agile (*[scopyleft](http://scopyleft.fr)*), le collectif non formel *BàO* (constitué de la communauté bénévoles des *BàOteurs/euses*) et tous les associations, collectivités, établissements publics, communautés de pratiques desquels sont issus les données. 
+Vous êtes actuellement sur multiBàO 1.0.
 
-Pour contacter le porte-parole actuel du projet, qui vous redirigera si besoin vers les bonnes personnes ressources :
+Participer aux interviews & questions générales 
+---
+Pour participer aux interviews, toute question générale relative au projet, merci de contacter le porte-parole actuel du projet, qui vous redirigera si besoin vers les bonnes personnes ressources :
 
 *Thomas WOLFF*  
 *[thomas.wolff@cpcoop.fr](mailto:thomas.wolff@cpcoop.fr)*  
 *ou tél : [06 42 45 97 81](tel:33642459781) (entre 9h et 19h)*  
+
+Je suis à la recherche d'un outil / méthode, et je ne sais pas comment faire
+---
+1. Tu sms au 06 42 45 97 81, réponse sous 20 minutes.
+2. Tu écris un message sur le chat ci dessous, comptes 20 minutes et un(e) référent(e) te répondra.
+
+
+
+
