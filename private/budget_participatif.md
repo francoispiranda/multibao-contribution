@@ -7,8 +7,8 @@ Démarche pérenne, souvent annuelle, au cours de laquelle les citoyens peuvent 
 ## A quoi ça sert ?
 
 * Discuter et décider d'un budget **(2)**
-* associer les citoyens aux choix de dépenses de leur ville. **(3)**
-* 
+* Associer les citoyens aux choix de dépenses de leur ville. **(3)**
+
 
 ![Budget participatif](http://www.democratie-participative.net/wp-content/uploads/2013/10/1170737_36181879-300x225.jpg) **(3)**
 
@@ -56,6 +56,8 @@ de suivi qui ont ainsi l’opportunité de vérifier que le plan d’action est 
 ### EXPÉRIENCE
 
 #### Budget participatif de la ville de grigny
+
+![Ville de Grigny](http://emile-malfroy.blogs.laclasse.com/files/2014/05/logo-grigny.jpeg)
 
 #### CADRE
 Grigny, ville de la région Rhônes-Alpes comptant environ 8000 habitants, a mis en place depuis 2006 un budget participatif. En 2013, le budget participatif représentait 25% du budget municipal.
