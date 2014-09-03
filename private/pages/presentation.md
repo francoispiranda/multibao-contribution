@@ -41,7 +41,7 @@ Issu de plus d'une quarantaine d'interviews de référent(e)s de 30 associations
 Vous voulez participez ? En savoir plus ? Une demande ? 
 --
 
-La gouvernance est ouverte, ainsi que sa méthode : vous y êtes invité ! 
+La gouvernance est ouverte, ainsi que sa méthode : vous y êtes invités ! 
 
 Pour toute question générale : 
 
