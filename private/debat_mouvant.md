@@ -66,5 +66,5 @@ Il est possible d'insister, au début du débat, sur le fait de prendre un laps 
 * **(1)** [Association Outils Réseaux](http://outils-reseaux.org/DebatMouvant), sous licence Creative Commons BY-SA
 * **(2)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA 
 * **(3)** [Association RECIT](http://www.recit.net/?Le-debat-mouvant), avec leur aimable autorisation
-* **(4)** Frédéric Renier, Supagro Florac, sous licence Creative Commons BY-SA
+* **(4)** [Frédéric Renier, Supagro Florac](http://ebook.coop-tic.eu/francais/wakka.php?wiki=DebatMouvant), sous licence Creative Commons BY-SA
 * **(5)** [Semer la citoyenneté](http://semerlacitoyennete.wordpress.com/2013/07/), sous licence Creative Commons BY-NC-SA
