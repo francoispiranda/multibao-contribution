@@ -13,10 +13,10 @@ Structure de parole interactive permettant de générer des idées par un groupe
 ![Worldcafé](http://fablabs-quebec.org/wp-content/uploads/2013/03/2013-03-04_LaPoc_1.jpg) **(3)**
 
 ## Informations pratiques
-**Nombre de participants** : à partir de 12 personnes
-**Durée préparation** : très variable
-**Durée évènement** : de 1 heure 30 à une journée 
-**Coût** : très variable. Si vous avez déjà tout à disposition faible.  **(2)**
+* **Nombre de participants** : à partir de 12 personnes
+* **Durée préparation** : très variable
+* **Durée évènement** : de 1 heure 30 à une journée 
+* **Coût** : très variable. Si vous avez déjà tout à disposition faible.  **(2)**
 
 ## Présentation 
 
