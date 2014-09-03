@@ -106,6 +106,8 @@ Session plénière de fin de Forum ouvert : cercle de clôture où tous les part
 
 #### Forum ouvert de Terre et Cité
 
+![ForumOuvert](http://media.ville-gif.fr/uploads/tx_artificaevents/2013-04_terre-cite280.jpg)
+
 #### Cadre
 
 L’Association Terre et Cité a pour objectif de tisser des liens entre l’agriculture du Plateau de Saclay (au sud-est des Yvelines) et les habitants des villes alentour. Dans le cadre d’une opération d’intérêt national décrétée pour le Plateau de Saclay, un décret protège de l’urbanisation une zone naturelle agricole d’environ 2300 hectares. Terre et Cité a été chargée de définir un plan d’action pour cette zone de protection. En septembre 2012, l’association a donc lancé un cycle de concertation territoriale sur la question du rôle des espaces naturels et agricoles du Plateau de Saclay. Dans un premier temps, 70 acteurs clés du territoire ont été interrogés en entretien individuel. Puis Terre et Cité a souhaité recueillir plus largement les avis, les idées et les projets des habitants pour construire son plan d’action pour cette zone naturelle et agricole. Les participants ont été interrogés sur deux thèmes précis : l’alimentation et la découverte du territoire.
