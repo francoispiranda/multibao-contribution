@@ -19,7 +19,7 @@ Structure de parole interactive permettant de générer des idées par un groupe
 
 ## Présentation 
 
-![Worldcafé](http://www.co-creative-recipes.cc/wp-content/uploads/2014/02/worldCafe.jpg.pagespeed.ce.yIEqCd_mnF.jpg)
+![Worldcafé](http://www.co-creative-recipes.cc/wp-content/uploads/2014/02/worldCafe.jpg.pagespeed.ce.yIEqCd_mnF.jpg) **(4)**
 
 Importé des États-Unis, le world café est une méthodologie de discussion entre acteurs permettant, en intelligence collective, de faire émerger d’un groupe des propositions concrètes et partagées par tous.
 
