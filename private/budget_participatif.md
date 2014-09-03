@@ -6,8 +6,11 @@ Démarche pérenne, souvent annuelle, au cours de laquelle les citoyens peuvent 
 
 ## A quoi ça sert ?
 
-* Discuter et décider d'un budget 
-* Impliquer des citoyens et parties prenantes 
+* Discuter et décider d'un budget **(2)**
+* associer les citoyens aux choix de dépenses de leur ville. **(3)**
+* 
+
+![Budget participatif](http://www.democratie-participative.net/wp-content/uploads/2013/10/1170737_36181879-300x225.jpg) **(3)**
 
 ## Informations pratiques
 
@@ -88,6 +91,7 @@ budget qui serait investi). Au total, 46 propositions ont été faites pour le b
 
 * **(1)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org). 
 * **(2)** Thomas WOLFF,[association Centre des pratiques de la coopération](http://cpcoop.fr)
+* **(3)** [Démocratie participative.net](http://www.democratie-participative.net/) sous licence Creative Commons BY
 * [Direction du Développement et de la Coopération, 2003. Numéro 7 sur le budget participatif comme outil de démocratie participative](http://nccr-ns.epfl.ch/autres_rech/UrbaNews/Urbanews7/UrbaNews_7_fr.pdf)
 * [France Qualité Publique. Bonne pratiques : La ville de Grigny et son expérience en matière d’élaboration du budget participatif](http://www.qualite-publique.org/La-ville-de-Grigny-et-son.html?id_rubrique=7)
 * [Frères des hommes, 2006. Les budgets participatifs](http://www.freresdeshommes.org/wp-content/uploads/2008/09/budgets-participatifs.pdf)
