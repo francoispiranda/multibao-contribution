@@ -2,23 +2,27 @@
 
 ## En une phrase  
 
-Méthode participative utilisée pour générer des idées, il existe des dizaines / centaines de méthodes différentes de Brainstorming.
+Le Brainstorming est une méthode participative utilisée pour générer des idées, reposant sur la base de la non-retenue; il en existe des centaines de formes différentes. **(3)*
 
 ## À quoi ça sert ?
 
-*Générer des idées
-* Trouver des solutions / résoudre des problèmes 
-* Favorise la créativité
+* Générer des idées **(3)*
+* Trouver des solutions / résoudre des problèmes **(1)*
+* Favoriser la créativité **(1)*
+
+![Brainstorming](http://www.easytrainingtools.com/blog/wp-content/uploads/2009/12/49915119_47670f570e_b1-300x225.jpg) **(4)**
 
 ## Informations pratiques
 **Nombre de participants**  à partir de 4 participants (l'animateur est partie prenante), pas de maximum, l'optimum étant 15 participants
-**Durée préparation** A
-**Durée évènement** 30 min à 2 heures 
-**Coût** A
+**Durée préparation** très courte
+**Durée évènement** 30 min à 2 heures **(1)*
+**Coût** tout dépend de la technologie que vous allez utiliser. Des post-it, napes blanches avec feutres etc. **(3)*
 
 ## Présentation 
 
-Le Brainstorming ou Remue-méninges est une technique de recherche d’idées en groupe, par exemple afin d’identifier ou de résoudre un problème. La principale phase du Brainstorming consiste à émettre spontanément le plus d’idées possible sans retenue et en les notant toutes. (1)
+![Brainstorming](http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/GLAMcamp_Amsterdam_-_upload_tool_brainstorming.jpg/400px-GLAMcamp_Amsterdam_-_upload_tool_brainstorming.jpg) **(5)**
+
+Le Brainstorming ou Remue-méninge est une technique de recherche d’idées en groupe, par exemple afin d’identifier ou de résoudre un problème. La principale phase du Brainstorming consiste à émettre spontanément le plus d’idées possible sans retenue et en les notant toutes. 
 
 A noter que le Brainstorming traditionnel vise à apporter des solutions à un problème donné grâce à un recoupement d'idées effectué par un groupe de travail.
 
@@ -30,7 +34,7 @@ Mais au-delà de cette phase de collecte d’idées, il faut auparavant :
 3. (Réaliser le Brainstorming)
 4. Puis sélectionner les meilleures idées ou les solutions applicables.
 
-C’est le travail de l’animateur que d’organiser ce processus (1)
+C’est le travail de l’animateur que d’organiser ce processus **(1)*
 
 ## Procédure 
 
@@ -46,7 +50,7 @@ Ces deux principes se traduisent par quatre règles :
 L'idée est de chercher à obtenir le plus grand nombre d'idées possibles sans imposer ses idées.
 
 Ainsi, les suggestions absurdes et fantaisistes sont admises durant la phase de production et de stimulation mutuelles. En effet, les participants ayant une certaine réserve peuvent alors être incités à s'exprimer, par la dynamique de la formule et les interventions de l'animateur.
-C'est pour amener à cet accouchement en toute quiétude que l'absence de critique, la suggestion d'idées sans aucun fondement réaliste, et le rythme, sont des éléments vitaux pour la réussite du processus. (2)
+C'est pour amener à cet accouchement en toute quiétude que l'absence de critique, la suggestion d'idées sans aucun fondement réaliste, et le rythme, sont des éléments vitaux pour la réussite du processus. **(2)**
 
 ### Déroulement
 **1. Préparation, documentation et maturation**
@@ -62,7 +66,7 @@ Préparation d'idées sur le thème pour relancer la dynamique en cas de difficu
 * Ne jamais critiquer les idées des autres, verbalement, non verbalement, explicitement, implicitement.
 
 **4. Exploitation des idées recueillies**
-Reformuler, classer, hiérarchiser les idées sous une forme synthétique comme, par exemple, sous la présentation d'une grille de décision (2)
+Reformuler, classer, hiérarchiser les idées sous une forme synthétique comme, par exemple, sous la présentation d'une grille de décision **(2)**
 
 ## Avantages et limites 
 
@@ -70,21 +74,21 @@ Reformuler, classer, hiérarchiser les idées sous une forme synthétique comme,
 * Générer des idées en grande quantité pour résoudre un problème
 * Très simple d'utilisation et de mise en place
 * Peut se pratiquer à partir d'un petit nombre d'individus
+* Favoriser un changement de comportement : écouter et oublier le jugement **(3)**
 
 ### Limites 
-* Les participants doivent sortir du mode de fonctionnement habituel : le jugement, pour se concentrer sur la création sans entrave
-* Ce n'est pas seulement énoncer de idées en grand nombre, c'est surtout d'énoncer des idées différentes, qui nécessitent d'utiliser la pensée latérale.
+* Gaspillage papier (souvent remonté en formation) **(3)** 
 
 ## Compilation, traduction et présentation
 
-Guillaume DEPREZ (Centre des Pratiques de la Coopération) : rédaction
+Guillaume DEPREZ (Université de Bordeaux Segalen) : rédaction
 Fanny MONOD (Centre des Pratiques de la Coopération) : relecture, avantages et limites, mise en page
 Caroline PICTON : relecture et vérification des sources
 
 ## Sources
 
-* 1 : Animer un Brainstorming (http://gestiondeprojet.pm/animer-un-brainstorming/
-https://docs.google.com/document/d/15zloy77gVt7MA59eTh915caXr0aUMaXOJrWahyoSQbk/edit)
-* 2 : Article Wikipédia sur le Brainstorming (http://fr.wikipedia.org/wiki/Brainstorming)
-* Tudor Rickards, « Brainstorming » in Mark Runco et Steven Pritzker, Encyclopedia of Creativity, Vol 1 Ae-h, Academic Press, 1999, p. 219-227.
-(http://rb.ec-lille.fr/l/Qualite/Qualite_Brainstorming.pdf)
+* **(1)** [Gestion de projet.pm](http://gestiondeprojet.pm/animer-un-brainstorming/), sous licence Creative Commons BY-NC-SA
+* **(2)** [Article Wikipédia sur le Brainstorming](http://fr.wikipedia.org/wiki/Brainstorming), sous licence Creative Commons BY-SA
+*  **(3)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
+* **(4)** [Easytrainingtools](http://www.easytrainingtools.com/blog/2009/12/16/how-to-evaluate-brainstorming-ideas/), image sous licence Creative Commons jakecaptive
+* **(5)** [Mike Peel](http://commons.wikimedia.org/wiki/File:GLAMcamp_Amsterdam_-_upload_tool_brainstorming.jpg), sous licence Creative Commons BY-SA
