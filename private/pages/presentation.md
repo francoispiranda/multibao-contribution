@@ -4,9 +4,11 @@
 
 Bienvenue sur la première version de multiBàO : multiBàO 1.0. C'est pas bien gros mais on va la tester. Ici, plutôt que d'imaginer une plateforme comme ceci ou comme cela, nous vous interrogons et construisons avec vous cette multiBàO 1.0 : soit ça correspond à ce que vous attendiez et on gagne (*earn*), soit ça ne correspond pas et on rectifie le tir (*learn*).
 
-Bref, on avance par tous petits pas avec vous.
+Bref, on avance par tous petits pas avec vous. 
 
-![http://prisemarteau.files.wordpress.com/2014/02/voyance.jpg]
+![On ne prédit pas, on demande](http://prisemarteau.files.wordpress.com/2014/02/voyance.jpg)
+
+Bref vous l'aurez compris, c'est participatif et on ne prédit pas : on demande!
 
 **multi BàO** interconnecte, renvoie vers et s'inspire des bonnes pratiques de trois communautés assez rarement reliées:
 
