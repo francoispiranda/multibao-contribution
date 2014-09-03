@@ -1,13 +1,15 @@
 # Kanban simplifié
 
 ## En une phrase
-Outil de planification des tâches mondiallement reconnu et expérimenté, connu pour sa facilité de lecture et sa limitation intelligente de tâches à faire. Aussi le nom d'un système de productivité industrielle utilisé par Toyota. On présente ici une version très simplifiée**(1)**
+Outil de planification des tâches mondiallement reconnu et expérimenté, connu pour sa facilité de lecture et sa limitation intelligente de tâches à faire. Aussi le nom d'un système de productivité industrielle utilisé par Toyota. On présente ici une version très simplifiée **(1)**
 
 ## À quoi ça sert ?
 * Organiser un grand nombre de tâches
 * Répartir le temps avec intelligente
 * Clarté 
 * Apprendre les fondamentaux de l'organisation **(1)**
+
+![Kanban](https://ayeba.wikispaces.com/file/view/initial_actionboard.png/251121282/300x223/initial_actionboard.png) **(4)**
 
 ## Informations pratiques
 
@@ -66,5 +68,7 @@ Thomas Wolff (Centre des pratiques de la coopération)
 ### Sources
 * **(1)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
 * **(2)** Jeff Iasovski, sous licence Creative Commons BY-SA
-* **(2)** [Rakuten, Inc.](http://commons.wikimedia.org/wiki/File:Lean_Kanban.jpg), sous licence Creative Commons BY-SA
+* **(3)** [Rakuten, Inc.](http://commons.wikimedia.org/wiki/File:Lean_Kanban.jpg), sous licence Creative Commons BY-SA
+* **(4)** [Wiki Ayeba](https://ayeba.wikispaces.com/7+%C3%A9tapes+afin+de+construire+un+tableau+Kanban+pour+les+obstacles+de+l'%C3%A9quipe+Scrum), sous licence Creative Commons BY
 * [Kanban en 4 étapes sur SlideShare](http://fr.slideshare.net/kanbantool/kanban-in-4-easy-steps)
+* 
