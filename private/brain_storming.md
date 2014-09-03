@@ -15,7 +15,7 @@ Le Brainstorming est une méthode participative utilisée pour générer des id�
 ## Informations pratiques
 **Nombre de participants**  à partir de 4 participants (l'animateur est partie prenante), pas de maximum, l'optimum étant 15 participants
 **Durée préparation** très courte
-**Durée évènement** 30 min à 2 heures **(1)**
+**Durée évènement** 30 min à 2 heures **([1](#1)**
 **Coût** tout dépend de la technologie que vous allez utiliser. Des post-it, napes blanches avec feutres etc. **(3)**
 
 ## Présentation 
@@ -87,7 +87,7 @@ Caroline PICTON : relecture et vérification des sources
 
 ## Sources
 
-* **(1)** [Gestion de projet.pm](http://gestiondeprojet.pm/animer-un-brainstorming/), sous licence Creative Commons BY-NC-SA
+* <a id="1" />**(1)** [Gestion de projet.pm](http://gestiondeprojet.pm/animer-un-brainstorming/), sous licence Creative Commons BY-NC-SA
 * **(2)** [Article Wikipédia sur le Brainstorming](http://fr.wikipedia.org/wiki/Brainstorming), sous licence Creative Commons BY-SA
 *  **(3)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
 * **(4)** [Easytrainingtools](http://www.easytrainingtools.com/blog/2009/12/16/how-to-evaluate-brainstorming-ideas/), image sous licence Creative Commons jakecaptive
