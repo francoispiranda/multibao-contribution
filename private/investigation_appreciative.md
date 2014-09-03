@@ -4,6 +4,8 @@
 
 L’investigation appréciative (AI) est une démarche TradeMark permettant de définir des orientations grâce aux forces/réussites passées et présente,plutôt que des problèmes. **(1)**
 
+![IA](http://business901.com/wp-content/uploads/2012/01/AI-vs-Lean.gif)
+
 ## A quoi ça sert ?
 
 * Définition d'orientations stratégiques
