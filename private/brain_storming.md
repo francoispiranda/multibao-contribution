@@ -2,21 +2,21 @@
 
 ## En une phrase  
 
-Le Brainstorming est une méthode participative utilisée pour générer des idées, reposant sur la base de la non-retenue; il en existe des centaines de formes différentes. **(3)*
+Le Brainstorming est une méthode participative utilisée pour générer des idées, reposant sur la base de la non-retenue; il en existe des centaines de formes différentes. **(3)**
 
 ## À quoi ça sert ?
 
-* Générer des idées **(3)*
-* Trouver des solutions / résoudre des problèmes **(1)*
-* Favoriser la créativité **(1)*
+* Générer des idées **(3)**
+* Trouver des solutions / résoudre des problèmes **(1)**
+* Favoriser la créativité **(1)**
 
 ![Brainstorming](http://www.easytrainingtools.com/blog/wp-content/uploads/2009/12/49915119_47670f570e_b1-300x225.jpg) **(4)**
 
 ## Informations pratiques
 **Nombre de participants**  à partir de 4 participants (l'animateur est partie prenante), pas de maximum, l'optimum étant 15 participants
 **Durée préparation** très courte
-**Durée évènement** 30 min à 2 heures **(1)*
-**Coût** tout dépend de la technologie que vous allez utiliser. Des post-it, napes blanches avec feutres etc. **(3)*
+**Durée évènement** 30 min à 2 heures **(1)**
+**Coût** tout dépend de la technologie que vous allez utiliser. Des post-it, napes blanches avec feutres etc. **(3)**
 
 ## Présentation 
 
@@ -34,7 +34,7 @@ Mais au-delà de cette phase de collecte d’idées, il faut auparavant :
 3. (Réaliser le Brainstorming)
 4. Puis sélectionner les meilleures idées ou les solutions applicables.
 
-C’est le travail de l’animateur que d’organiser ce processus **(1)*
+C’est le travail de l’animateur que d’organiser ce processus **(1)**
 
 ## Procédure 
 
