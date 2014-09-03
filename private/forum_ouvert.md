@@ -4,6 +4,8 @@
 
 Le Forum ouvert est une structure de parole permettant à un nombre non limité de participants d’explorer leurs propres sujets autour d’un thème central **(2)**, favorisant ainsi une émulation **(3)**.
 
+![Forum ouvert](http://i0.wp.com/transitionculture.org/wp-content/uploads/totnesopenspace.jpg?resize=300%2C225)**(4)**
+
 ## À quoi ça sert ?
 
 * Reproduire les échanges informel d'une pause café
@@ -18,6 +20,11 @@ Le Forum ouvert est une structure de parole permettant à un nombre non limité 
 * **Coût** très variable  **(2)**
 
 ## Présentation 
+
+* [Lien vers une vidéo du forum ouvert, présenté en moins de 2 minutes](https://www.youtube.com/watch?v=JaQvXptD9Ww)
+* [Interviews vidéos: mobiliser les collectivités avec le forum ouvert. DYNAMO-QUEBEC. 5mn29](https://www.youtube.com/watch?v=ATwAQoxxTjA)
+ 
+![Forum ouvert](http://marconfon.files.wordpress.com/2011/06/open-space-technology.jpg) **(5)**
 
 Le Forum ouvert ou open space a été imaginé aux États-Unis dans les années 80 par Harrison Owen, consultant théoricien et praticien de la culture des organisations visant une transformation.
 
@@ -99,6 +106,8 @@ Session plénière de fin de Forum ouvert : cercle de clôture où tous les part
 
 #### Forum ouvert de Terre et Cité
 
+![ForumOuvert](http://media.ville-gif.fr/uploads/tx_artificaevents/2013-04_terre-cite280.jpg)
+
 #### Cadre
 
 L’Association Terre et Cité a pour objectif de tisser des liens entre l’agriculture du Plateau de Saclay (au sud-est des Yvelines) et les habitants des villes alentour. Dans le cadre d’une opération d’intérêt national décrétée pour le Plateau de Saclay, un décret protège de l’urbanisation une zone naturelle agricole d’environ 2300 hectares. Terre et Cité a été chargée de définir un plan d’action pour cette zone de protection. En septembre 2012, l’association a donc lancé un cycle de concertation territoriale sur la question du rôle des espaces naturels et agricoles du Plateau de Saclay. Dans un premier temps, 70 acteurs clés du territoire ont été interrogés en entretien individuel. Puis Terre et Cité a souhaité recueillir plus largement les avis, les idées et les projets des habitants pour construire son plan d’action pour cette zone naturelle et agricole. Les participants ont été interrogés sur deux thèmes précis : l’alimentation et la découverte du territoire.
@@ -166,3 +175,5 @@ Pendant ces deux journées, il était frappant de voir à quel point l’enthous
 * **(1)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), sous licence Creative Commons BY-NC-SA
 * **(2)** Guillaume DEPREZ, [Université de Bordeaux Segalen](www.univ-bordeauxsegalen.fr), sous licence Creative Commons BY-SA
 * **(3)** Thomas WOLFF, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
+* **(4)** [Montreuil en transition](http://montreuilentransition.fr/forum-ouvert/), sous licence Creative Commons BY-SA 
+* **(5)** [Public Lab](http://publiclab.org/tag/5BF), sous licence Creative Commons BY-NC-SA

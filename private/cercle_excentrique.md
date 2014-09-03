@@ -11,6 +11,8 @@ La démarche du Cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) 
 * Conférences/ateliers/débats avec "experts"
 * Conférences/ateliers/débats avec citoyens **(3)** 
 
+![Cercle excentrique](http://www.aohmontreal.org/wp-content/uploads/2014/04/IMG_0024-1140x500.jpg) **(4)**
+
 ## Informations pratiques
 
 * Nombre de participants  pour le cercle central, de 3 à 8 participants. A l'extérieur du cercle central: non défini. 
@@ -23,11 +25,13 @@ La technique du cercle excentrique (Fishbowl) implique un petit groupe de person
 
 ## Procédure 
 
+![fishbowl](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fishbowl_diagram_172.png/220px-Fishbowl_diagram_172.png) **(2)**
+
 La discussion peut être une "conversation privée" au sein d'un groupe spécifique. Le plus souvent, une ou plusieurs chaises sont à la disposition des "visiteurs" (c'est-à-dire, les membres de l'audience) qui désirent poser des questions ou faire des commentaires. 
 
 Lorsque les personnes qui se trouvent au centre de la discussion sont des fonctionnaires ou des décideurs, cette technique peut apporter la transparence du processus de prise de décision et accroître la confiance et la compréhension de questions complexes. 
 
-Bien que l'ensemble de la discussion se structure toute seule, une fois lancée elle bénéficie de la présence d'un animateur ou d'un modérateur. Le plus souvent, le cercle excentrique fait partie d'un débat plus ample.
+Bien que l'ensemble de la discussion se structure toute seule, une fois lancée elle bénéficie de la présence d'un animateur ou d'un modérateur. Le plus souvent, le cercle excentrique fait partie d'un débat plus ample. **(1)** 
 
 ## Mise en place:
 Comment implanter un processus de cercle excentrique:
@@ -39,7 +43,7 @@ Quelques chaises dans un cercle intérieur (élevé si nécessaire pour être vi
 Anneaux concentriques de chaises et / ou tables rondes autour du cercle intérieur;
 Penser aux allées pour permettre un accès facile au cercle intérieur
 Microphones si nécessaire
-Chevalets ou du papier sur les murs pour l'enregistrement écrite ou graphique des idées clés est parfois utile
+Chevalets ou du papier sur les murs pour l'enregistrement écrite ou graphique des idées clés est parfois utile **(1)** 
 
 
 ### Détails:
@@ -54,7 +58,7 @@ Chevalets ou du papier sur les murs pour l'enregistrement écrite ou graphique d
 
 ### Avantages 
 * Grande force : favorise l'écoute **(3)**
-* Très flexible : utilisable dans tout contexte pour favoriser l'écoute**(3)**
+* Très flexible : utilisable dans tout contexte pour favoriser l'écoute **(3)**
 * Possibilité de s'en servir même dans des salles qui ne sembleraient au premier abord pas adaptées, comme par exemple un amphithéâtre; l'idée de base à conserver: il faut écouter et attendre avant de parler. **(3)**
 
 ### Limites 
@@ -69,3 +73,5 @@ Caroline PICTON (relecture et vérification des sources)
 * **(1)** [KStools](http://www.kstoolkit.org/Cercle+excentrique), sous licence Creative Commons BY SA
 * **(2)** [Wikipedia](http://en.wikipedia.org/wiki/Fishbowl_%28conversation%29), sous licence Creative Commons BY SA
 * **(3)** Thomas WOLFF, [association Centre des pratiques de la coopération](http://www.cpcoop.fr), sous licence Creative Commons BY-SA
+* **(4)** Communauté [AOH Montreal](http://www.aohmontreal.org/valoriser-et-honorer-lexpertise-dans-les-processus-participatifs/), sous licence Creative Commons BY-SA
+
