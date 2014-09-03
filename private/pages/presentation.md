@@ -2,11 +2,12 @@
 
 **multi BàO** (multi boîtes à outils) est une plateforme en construction vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + référents de terrain) pour coopérer.
 
-Bienvenue sur la première version de multiBàO : multiBàO 1.0. C'est pas bien gros mais on va la tester. Ici, plutôt que d'imaginer une plateforme comme ceci ou comme cela, nous vous interrogons et construisons avec vous cette multiBàO 1.0 : soit ça correspond à ce que vous attendiez et on gagne (*earn*), soit ça ne correspond pas et on rectifie le tir (*learn*).
+Bienvenue sur la première version de multiBàO : multiBàO 0.1.0. C'est pas bien gros mais on va la tester. Ici, plutôt que d'imaginer une plateforme comme ceci ou comme cela, nous vous interrogons et construisons avec vous cette multiBàO 0.1.0 : soit ça correspond à ce que vous attendiez et on gagne (*earn*), soit ça ne correspond pas et on rectifie le tir (*learn*).
 
 Bref, on avance par tout petits pas avec vous.
 
 ![On ne prédit pas, on demande](http://prisemarteau.files.wordpress.com/2014/02/voyance.jpg)
+
 Vous l'aurez compris l'idée: c'est participatif, sous licences libres et on ne prédit pas : on demande!
 
 **multi BàO** interconnecte, renvoie vers et s'inspire des bonnes pratiques de trois communautés assez rarement reliées:
@@ -15,7 +16,7 @@ Vous l'aurez compris l'idée: c'est participatif, sous licences libres et on ne 
 - les chargés de concertation
 - les développeurs agiles
 
-Compilée depuis 2012 entre ces communautés, une [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa) de plus de 200 fiches outils, une des plus grosses du web sous licences libres. 
+Compilée depuis 2012 entre ces communautés, une [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa) de plus de 200 fiches outils, une des plus grosses du web sous licences libres.
 
 Depuis 2014; grâce aux pratiques agiles déployées, nous construisons multiBàO ensemble / avec vous pour celles et ceux qui participent aux séries de tests, revues et interviews.
 
