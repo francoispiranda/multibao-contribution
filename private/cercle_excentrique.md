@@ -25,6 +25,8 @@ La technique du cercle excentrique (Fishbowl) implique un petit groupe de person
 
 ## Procédure 
 
+![fishbowl](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fishbowl_diagram_172.png/220px-Fishbowl_diagram_172.png) **(2)**
+
 La discussion peut être une "conversation privée" au sein d'un groupe spécifique. Le plus souvent, une ou plusieurs chaises sont à la disposition des "visiteurs" (c'est-à-dire, les membres de l'audience) qui désirent poser des questions ou faire des commentaires. 
 
 Lorsque les personnes qui se trouvent au centre de la discussion sont des fonctionnaires ou des décideurs, cette technique peut apporter la transparence du processus de prise de décision et accroître la confiance et la compréhension de questions complexes. 
