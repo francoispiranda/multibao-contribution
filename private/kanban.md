@@ -71,4 +71,3 @@ Thomas Wolff (Centre des pratiques de la coopération)
 * **(3)** [Rakuten, Inc.](http://commons.wikimedia.org/wiki/File:Lean_Kanban.jpg), sous licence Creative Commons BY-SA
 * **(4)** [Wiki Ayeba](https://ayeba.wikispaces.com/7+%C3%A9tapes+afin+de+construire+un+tableau+Kanban+pour+les+obstacles+de+l'%C3%A9quipe+Scrum), sous licence Creative Commons BY
 * [Kanban en 4 étapes sur SlideShare](http://fr.slideshare.net/kanbantool/kanban-in-4-easy-steps)
-* 
