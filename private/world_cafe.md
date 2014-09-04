@@ -10,7 +10,7 @@ Structure de parole interactive permettant de générer des idées par un groupe
 * Générer une réflexion collective sur un sujet **(2)**
 * Monter en "intelligence collective" sur un sujet : les groupes en s'interconnectant vont favoriser la pollinisation des idées **(2)**
 
-![Worldcafé](http://fablabs-quebec.org/wp-content/uploads/2013/03/2013-03-04_LaPoc_1.jpg) **(3)**
+![Worldcafé](http://www.co-creative-recipes.cc/wp-content/uploads/2014/02/worldCafe.jpg.pagespeed.ce.yIEqCd_mnF.jpg) **(3)**
 
 ## Informations pratiques
 * **Nombre de participants** : à partir de 12 personnes
@@ -19,8 +19,6 @@ Structure de parole interactive permettant de générer des idées par un groupe
 * **Coût** : très variable. Si vous avez déjà tout à disposition faible.  **(2)**
 
 ## Présentation 
-
-![Worldcafé](http://www.co-creative-recipes.cc/wp-content/uploads/2014/02/worldCafe.jpg.pagespeed.ce.yIEqCd_mnF.jpg) **(4)**
 
 Importé des États-Unis, le world café est une méthodologie de discussion entre acteurs permettant, en intelligence collective, de faire émerger d’un groupe des propositions concrètes et partagées par tous.
 
@@ -161,6 +159,5 @@ Afin de poursuivre les dynamiques et les échanges entre acteurs créés par le 
 
 * **(1)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), sous licence Creative Commons BY-NC-SA
 * **(2)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
-* **(3)** [FabLab Quebec](http://fablabs-quebec.org), sous licence Creative Commons BY-SA
-* **(4)** [Co-creative recipes](http://www.co-creative-recipes.cc), sous licence Creative Commons BY-SA
+* **(3)** [Co-creative recipes](http://www.co-creative-recipes.cc), sous licence Creative Commons BY-SA
 * [Bilan national des journées de la restauration collective responsable, Fondation Nicolas Hulot.](http://www.fondation-nicolas-hulot.org/sites/default/files/pdf/publications/Bilan_national_journees_RCR.pdf)
