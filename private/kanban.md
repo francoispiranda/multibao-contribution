@@ -21,8 +21,6 @@ Outil de planification des tâches mondiallement reconnu et expérimenté, connu
 ## Présentation
 Le Kanban est un outil très flexible, numérique ou papier/post-its, permettant de connaître l'état d'avancement de tâches, individuellement et/ou en collectif. Très simple d'utilisation, nous vous présentons ici l'outil simplifié. De nombreus outils numériques, payants ou non, sont disponibles. Kanban signifierai en japonais "regarder le tableau" **(1)**
 
-![Kanban](http://rafaelhernamperez.files.wordpress.com/2012/11/kanbanboard.jpg) **(2)**
-
 ## Procédure
 Voir ["Kanban in 4 easy steps" sur SlideShare](http://fr.slideshare.net/kanbantool/kanban-in-4-easy-steps) 
 
