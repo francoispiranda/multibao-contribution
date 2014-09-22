@@ -1,25 +1,32 @@
-{ 
+{
+  "10": {
+    "updated": "22/09/2014",
+    "slug": "elevator_pitch",
+    "title": "Elevator pitch",
+    "tag": "CC BY-SA"
+  },
+
   "2": {
     "updated": "01/09/2014",
     "slug": "debat_mouvant",
     "title": "Débat mouvant",
     "tag": "CC BY-SA"
   },
-  
+
   "3": {
     "updated": "16/08/2014",
     "slug": "kanban",
     "title": "Kanban simplifié",
     "tag": "CC BY-SA"
   },
-  
+
   "4": {
     "updated": "25/08/2014",
     "slug": "cercle_excentrique",
     "title": "Cercle excentrique",
     "tag": "CC BY-SA"
   },
-  
+
   "5": {
     "updated": "01/09/2014",
     "slug": "budget_participatif",
@@ -33,21 +40,21 @@
     "title": "Investigation appréciative",
     "tag": "CC BY-NC-SA"
   },
-  
+
   "7": {
     "updated": "01/09/2014",
     "slug": "world_cafe",
     "title": "World café",
     "tag": "CC BY-SA"
   },
-  
+
   "8": {
     "updated": "01/09/2014",
     "slug": "brain_storming",
     "title": "Brain storming",
     "tag": "CC BY-SA"
   },
-  
+
   "9": {
     "updated": "01/09/2014",
     "slug": "forum_ouvert",
