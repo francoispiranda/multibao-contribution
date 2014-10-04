@@ -12,6 +12,9 @@ http://www.dailymotion.com/video/xem782_conference-mado-2_webcam
 ## Historique 
 Le troc existe depuis des milliers d'années. Pour faciliter des échanges indirects, divers systèmes ont été mis en place. Le J.E.U. a été créé en 1998 par Daniel Fargeas. Le J.E.U.  permet de favoriser les échanges justes entre les êtres humains, partout sur la planète. **(1)** 
 ##Philosophie 
+
+C'est un mode d'échange authentique et bienveillant qui remet l'humain et le coeur au centre. Des rencontres enrichissantes, la valorisation de nos talents, un vrai outil de développement humain. Nous jeu-ons et tout devient possible ! **(3)** 
+
 « J.E.U.  c’est une alternative au système dans lequel nous vivons, c’est créer ensemble une autre façon d’acquérir des biens et services dans le respect, l’égalité, la diversité, la solidarité et la confiance. »
 
 J.E.U.  c’est un outil d’échange entre participant(e)s, un système d’échange de biens et services autogéré et sans frontière. En offrant ainsi nos biens et services, dans ce système d’où tout argent est exclu, nous nous réapproprions notre pouvoir économique et devenons ainsi plus autonomes et autosuffisant(e)s.
@@ -99,3 +102,4 @@ Dans l'ensemble du système, l'addition de tous les soldes des participants est 
 ## Sources
 **(1)** Amaryllis, publié selon les termes de la licence Creative Commons BY-SA
 **(2)** Ekopedia.org, publié sous les termes de la licence Creative Commons BY-SA
+**(3)** Chloé Richaud (J.E.U.de Montpellier & alentours)
