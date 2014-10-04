@@ -37,7 +37,7 @@ Chaque transaction est inscrite dans le carnet J.E.U de chaque participant. Ce c
 - Je m'enrichis et j'enrichis ma communauté locale.
 - Si j'ai un solde négatif, je ne paie pas de frais d'intérêt.
 - Je peux échanger partout sur la planète et aussi avec d'autres réseaux d'échanges tel que le S.E.L. (Système d'Échange Local). **(1)** 
-
+Les JEUeurs deviennent nos amis et on finit souvent par ne plus utiliser le carnet pour nos échanges.**(3)** 
 ### Rencontre Inter-J.E.U. : 
 Cirque du J.E.U.  2015 : du 24 au 27 juillet 2015 au Centre d'ailleurs, dans le 63 - http://www.lecentredailleurs.com/ **(1)** 
 
