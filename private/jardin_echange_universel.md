@@ -1,109 +1,101 @@
+# Jardin d’Échange Universel (J.E.U.)
 
-JEU (Jardin d’Echange Universel)
+## En une phrase 
+Le J.E.U. (Jardin d'Echange Universel) est une monnaie souveraine et autogérée, chaque JEUeur est responsable et garant de son fonctionnement. **(1)** 
 
-Le JEU a été créé en 1998 par Daniel Fargeas avec l’idée de pallier à la baisse des échanges dans son SEL des Pyrénées Orientales, suite au manque de diversité de propositions d’offres et demandes en local et aux problèmes liés au puits sans fond (tout le monde ou presque se retrouvant en positif, ce qui fait que plus prsonnes n’échangent !). Le but était de faciliter les échanges interSEL, mais aussi d’éviter la centralisation du pouvoir et de la responsabilité par un petit groupe, voire par une seule personne.
+Le J.E.U. (Jardin d'Echange Universel) est un réseau d'échange décentralisé (à la différence du SEL (Système d'Echange Local) qui est centré dans un lieu géographie ; à part ça, le principe est le même). **(2)**
 
-Le réseau de personnes que constituent les partenaires du JEU est essentiellement basé sur la confiance et la responsabilité individuelle ; il est donc nécessaire qu’ils partagent l’esprit et l’éthique du SEL.
+## En vidéo 
+http://www.dailymotion.com/video/xem8pk_conference-mado-1_webcam
+http://www.dailymotion.com/video/xem782_conference-mado-2_webcam
 
-C’est quoi le J.E.U.?
+## Historique 
+Le troc existe depuis des milliers d'années. Pour faciliter des échanges indirects, divers systèmes ont été mis en place. Le J.E.U. a été créé en 1998 par Daniel Fargeas. Le J.E.U.  permet de favoriser les échanges justes entre les êtres humains, partout sur la planète. **(1)** 
+##Philosophie 
+« J.E.U.  c’est une alternative au système dans lequel nous vivons, c’est créer ensemble une autre façon d’acquérir des biens et services dans le respect, l’égalité, la diversité, la solidarité et la confiance. »
 
-(résumé de la définition donnée par Daniel Fargeas sur le site http://jeu.vingrau.free.fr)
+J.E.U.  c’est un outil d’échange entre participant(e)s, un système d’échange de biens et services autogéré et sans frontière. En offrant ainsi nos biens et services, dans ce système d’où tout argent est exclu, nous nous réapproprions notre pouvoir économique et devenons ainsi plus autonomes et autosuffisant(e)s.
 
-Le JEU, réseau d’échange décentralisé, à la différence du SEL qui est centré dans un lieu géographique, propose un moyen simple et universel de dynamiser les échanges solidaires et non commerciaux.
+Non seulement nous y brisons l'isolement à travers des rencontres intéressantes et enrichissantes, mais nous faisons des prises de conscience qui nous amènent à consommer de façon plus éclairée et conséquente. **(2)** 
+##Objectifs 
 
-Il comporte 2 points essentiels :
+Le but du J.E.U.  est de créer de l'abondance, donc de permettre aux participants d'obtenir des biens et/ou des services qu'ils ne pourraient obtenir autrement (manque d'argent, isolement, etc). Le but n'est aucunement de maintenir toujours un solde positif.
 
-* une comptabilité individuelle,
+Plus le nombre de participants augmentera, plus la variété de produits et services sera intéressante. Tout peut s'échanger par le système J.E.U. !... **(2)** 
+## Fonctionnement 
 
-* un accès à l’échange libre et inconditionnel.
 
-Ce réseau, sans centre et sans frontière, permet de faire l’économie d’une comptabilité centralisée, cette fonction étant répartie sur l’ensemble des partenaires. En supprimant le centre (comptable) on supprime également les frontières et le JEU devient universel. Il n’y a plus d’association, ni d’inscription, ni de cotisation. Du même coup l’exercice de l’échange devient libre, gratuit et inconditionnel et il n’est pas nécessaire d’en référer à un centre de contrôle, la présomption de bonne foi étant suffisante. En effet, pourquoi tout de suite penser à une fraude possible ? (de la part de l’autre, bien évidemment !)
+Les transactions se réalisent grâce à une unité universelle : les "points J.E.U. ". À la base, une unité, un "point J.E.U. " équivaut à une minute de temps humain. Vous offrez une heure de votre temps à votre voisin, il inscrit alors + 60 points dans votre carnet (et vous soustrayez 60 unités dans le sien). **(2)** 
+###Le carnet J.E.U.
+Chaque transaction est inscrite dans le carnet J.E.U de chaque participant. Ce carnet peut être obtenu d'un autre joueur, fabriqué soi-même en s'inspirant de modèles existants ou bien directement auprès de la personne qui coordonne le J.E.U. localement. **(1)** 
 
-Le JEU - la pratique de base
+###En participant au J.E.U. :
+- Je peux négocier chaque échange.
+- Je m'enrichis et j'enrichis ma communauté locale.
+- Si j'ai un solde négatif, je ne paie pas de frais d'intérêt.
+- Je peux échanger partout sur la planète et aussi avec d'autres réseaux d'échanges tel que le S.E.L. (Système d'Échange Local). **(1)** 
 
-Chacun tient ses comptes personnellement sur un simple carnet. Il n’y a pas de modèle imposé, un cahier d’écolier peut faire l’affaire si les comptes sont clairs ; mais l’usage semble consacrer un carnet dont on trouve un modèle sur différents sites, comme par exemple sur le site de SEL’idaire :
-http://selidaire.org/spip/article.php3?id_article=1638
+### Rencontre Inter-J.E.U. : 
+Cirque du J.E.U.  2015 : du 24 au 27 juillet 2015 au Centre d'ailleurs, dans le 63 - http://www.lecentredailleurs.com/ **(1)** 
 
-(Voir aussi le carnet québécois sur :www.jeu-game.com)
+## Egalité
+Dans l'ensemble du système, l'addition de tous les soldes des participants est toujours égale à 0. Cet équilibre se maintient sur toute la planète. Vous pouvez très bien utiliser vos "points" acquis dans votre village québécois pour l'échanger contre la location d'une villa dans le Midi de la France... **(2)** 
 
-Dès qu’on a son carnet, il suffit de trouver un partenaire d’échange possédant aussi le carnet du JEU, seliste ou non seliste, ou bien de lui en donner un.
-Sur le carnet de compte, le partenaire de l’échange inscrit de sa main les informations nécessaires (chacun remplit le carnet de l’autre) : la date, la nature et le montant de l’échange, le nouveau solde et aussi le solde du partenaire après l’échange (cette dernière case permet de retrouver et de vérifier son solde en cas de perte de son carnet : il suffit alors de contacter son dernier partenaire pour repartir sur un nouveau carnet après un transfert de solde). Le carnet porte ainsi la trace de tous les échanges effectués, authentifiés par l’écriture et les coordonnées des partenaires.
+##Plus d’informations :
 
-L’unité de mesure est la minute, calquée sur le système du Time Dollar des Etats-Unis et des banques du temps. De plus, « 1 minute = 1 minute », comme dans la plupart des SEL.
+[Cirque du J.E.U. ](http://cirquedujeu.wordpress.com)
+[Une autre présentation wordpress](http://jardindechangeuniversel.wordpress.com/)
+- http://fr.ekopedia.org/Jardin_d’Echange_Universel
+- http://www.zoupic.com/2010/11/04/le-j-e-u-jardin-dechange-universel-forme-souveraine-auto-geree-et-comptable-dechange/
+    http://jeu.vingrau.free.fr/
 
-Plus d’infos voir le site : http://jeu.vingrau.free.fr
+### Groupes JEU en France :
+* JEU Parisot 82, le 15 de chaque mois, http://jeuparisot82.wordpress.com/
+* JEU de colibris 81, http://jeu81.jimdo.com/
+* JEU de Haute Savoie, Douvaine, https://sites.google.com/site/jardindechangeuniversel/
+*   JEU Toulon, http://coin-jeu.communityforge.net/
+*     JEU 45 Orléans, http://jeu45.fr.nf/
+*     JEU Var, http://www.jardindechangeuniversel.blogspot.fr/
+*   JEU Var, http://www.jardindechangeuniversel.blogspot.fr/
+*  JEU Var http://www.jeu-var.com/
+* JEU Lyon http://jeulyon.forumactif.org/
+* JEU Dom Tom :
+    http://www.jeu974.fr/
 
-sur le site de SEL’idaire : http://selidaire.org/spip/rubrique.php3?id_rubrique=69
 
-Le JEU aujourd’hui en France...
+###  J.E.U. Québec :
+  http://www.monjeu.org/
 
-Impossible de chiffrer, même approximativement, le nombre de partenaires du JEU, puisque, par définition, le JEU est libre et non centralisé...
+### Groupes de discussions :
+* http://fr.groups.yahoo.com/group/JEU/
+* http://epanews.fr/group/jardindechangeuniversel
+* http://colibris.ning.com/group/jeu?xg_source=activity
+* En anglais : http://www.gardenofexchange.com/
 
-Un fonctionnement qui s’est installé vis-à-vis du JEU et qui a très bien marché a été celui du SEL Gabare (33) : depuis 1998, ce SEL a donné la possibilité à ses adhérents de faire des échanges entre sa monnaie propre (le bouchon) et le JEU dans un cadre bien défini : limitation des échanges, globalement, comme pour un adhérent du SEL, à 3000 unités en + ou en -. Une ligne dans la comptabilité (centralisée à l’époque) a été ajoutée et un carnet du JEU a été créé pour le SEL.
+##Rencontres JEU
 
-Cependant aujourd’hui, on sait que de plus en plus de SEL abandonnent la comptabilité centralisée, car cela représente trop de travail et dépose la responsabilité (le pouvoir) entre les mains d’une seule personne.
+###En France :
 
-L’évolution des SEL vers plus de confiance et le souhait de partager les responsabilités, font que la feuille de richesse ou le carnet à souches sont progressivement remplacés par un carnet de comptabilité individuel, largement inspiré de celui du JEU.
+* Béarn : 2ème samedi de chaque mois - info Emilie : 06.19.69.79.60
 
-On sait aussi que beaucoup de selistes en France utilisent le carnet du JEU pour leur échanges interSEL ;
-que les échanges, pendant les rencontres annuelles des SEL sont souvent effectués par l’intermédiaire du JEU (parfois aussi avec la FRI - Feuille de Richesse InterSEL - Voir pour plus d’infos le site de SEL’idaire : http://www.selidaire.org/spip/article.php3?id_article=1530) ;
-idem pour les échanges de la Route des Stages (la Route des stages est d’ailleurs aussi bien ouverte aux adhérents des SEL qu’aux partenaires du JEU, même non selistes).
+* Montpellier : le 5 de chaque mois
+[info Chloé](http://epanews.fr/profile/Chlohep)
+[visitez notre site](http://jeu.montpellier.communityforge.net)
 
-On sait que certains des SEL, qui ont adopté un fonctionnement avec un carnet inspiré de celui du JEU, acceptent que leurs adhérents échangent en InterSEL, sans contrôle local ;
+* Béziers : le 8 de chaque mois - Info Pascal : http://epanews.fr/profile/Pascal126
 
-que le JEU s’utilise aussi pour des échanges à distances (par téléphone, Internet,...).
+* Ariège (entre Mirepoix et Lavelanet) : le 9 de chaque mois info Patricia : http://epanews.fr/profile/PatriciaB#.Uuaq9vZKH9A
 
-(Il y a d’ailleurs un réseau Internet : « Sel Terre » ; mais sur le site, impossible de savoir qui le gère ; de plus, il y a de la pub et un lien vers un site de vente de spiruline sur la page d’accueil...)
+* Bretagne :  Info : Anyvone : http://epanews.fr/profile/dezell
 
-De plus, l’atelier Moyens d’échange de SEL’idaire (en cours de validation) se donne comme objectif de regrouper les réflexions et les expériences sur les moyens d’échanges existants et à inventer ; comme le JEU, le troc direct, le don, la mixité euros/unités SEL, le passeport interSEL, la FRI, le carnet de voyage,..., et tous les moyens possibles d’échange que ce soit au niveau local mais aussi au niveau national et international. Sa liste de discussion est : selidaire-moyensdechange@yahoogroupes.fr (pour s’y abonner envoyer un mail, en précisant votre système d’échange, à : selidaire-moyensdechange-subscribe@yahoogroupes.fr)
+* Autour de Parisot(82): (aveyron, Tarn, Lot, Tarn-et-Garonne) le 15 de chaque mois. http://jeuparisot82.wordpress.com/
+* Dordogne : Vergt, Bourrou, Périgueux : le 18 de chaque mois.
 
-...et dans le monde
+* Nantes : chaque 3ème mercredi du mois au CAFE LE CERCLE 4 Place Canclaux, à partir de 18H30.
 
-Au Québec cela semble l’explosion !
+* Toulon : http://coin-jeu.communityforge.net
+* Creuse, Auzances: en principe le dernier dimanche du mois. Zoé : 06.16.50.37.44 **(1)** 
 
-Le J.E.U. a débuté dans les cantons de l’est du Québec dès 1999.
-
-Il semblerait qu’au Québec, les systèmes d’échange soient plus proches du JEU que du SEL. Sont ils plus souples et plus confiants que nous dans l’humain ? En tout cas, la comptabilité centralisée semble peu exister et ils utilisent en général un carnet de comptabilité individuel similaire à celui du JEU. De même, l’échange entre régions et même entre pays semble nettement facilitée, même si des groupes s’organisent autour d’un noyau responsable du fonctionnement, qui centralise les offres et les demandes, organise des foires au troc et comptabilise les transactions.
-
-Liste des SEL/JEU québécois sur le site de SEL’idaire à la page :
-http://www.selidaire.org/spip/article.php3?id_article=350
-
-Et aussi sur le site : http://www.harmonieterre.org/fr2/303-troc.html
-
-Voir aussi : http://www.monjeu.net/ - http://www.jeu-game.com/ - http://www.jeudequebec.org/
-
-Quant au JEU ailleurs dans le monde, pour ce qui est des pages françaises, Internet semble muet...
-
-Les limites et les avantages du système
-
-(Ceci est mon interprétation personnelle, elle demanderait à être débattue et enrichie)
-
-Les avantages
-
-- La simplicité : il n’y a plus d’association, ni d’inscription, ni de cotisation. Il suffit d’avoir un carnet de comptabilité individuel.
-
-- La facilitation des échanges interSEL, en France et à travers le monde et donc l’élargissement des possibilités d’échanges.
-
-- La responsabilisation de chaque participant à l’égard de l’intégrité de ses offres et demandes ; de l’évaluation de la nature, de la sécurité et de la valeur des transactions qu’il choisit de faire ; de faire ou de ne pas faire une transaction avec quelqu’un dont les intentions ne semblent pas respectueuses ou si l’offre proposée ne nous convient pas. C’est une attitude responsable et adulte. (à l’inverse du SEL, où l’on se repose bien souvent sur les responsables pour gérer les problèmes, les offres ou demandes suspectes, les soldes anormalement positifs ou négatifs...)
-
-- La monnaie universelle, basée sur le temps.
-
-- Le carnet de comptabilité individuel et universel.
-
-Les limites
-
-- La contrainte, imposée par Daniel Fargeas, d’avoir un solde toujours positif est assez incompréhensible, le débat est toujours en cours.
-
-- L’anonymat, l’absence de contrôle : le choix de La Route des SEL a été, dès l’origine, de ne pas accepter les partenaires du JEU qui ne sont pas selistes, ceci pour une raison de sécurité car les adhérents de La Route des SEL ouvrent leur porte. Le lien avec les SEL, structures locales et de base dans lesquelles les selistes sont connus et obligatoirement adhérents permet, de garantir une certaine sécurité dans l’échange. En effet, les SEL « locaux » garantissent à La Route des SEL l’esprit du SEL, la philosophie de convivialité dans l’échange.
-
-Conclusion - Avenir
-
-Le JEU - Jardin d’Echange Universel est évidemment une invention géniale !
-
-L’expérimentation qui en a été faite depuis ces 11 années passées, permet de dire qu’il y a une complémentarité évidente entre le SEL (Local) et le JEU (Universel).
-
-Je pense pour ma part que le concept du JEU a largement permis aux SEL d’évoluer : le carnet de comptabilité individuel, la facilitation de l’InterSEL ; mais je pense aussi que le SEL , de par ce petit mot de « Local » qui sous -entend pour moi « géographique », est une forte garantie de sécurité, non pas pour le contrôle des échanges, il ne s’agit pas vraiment de cela, mais pour celui des personnes, que l’on peut retrouver en cas de nécessité.
-
-Je pense aussi que la diversité des systèmes : le SEL, le JEU, La Route des SEL, la Route des Stages, et j’espère d’autres inventions aussi formidables à venir, fait la richesse et permet l’évolution des systèmes d’échange non monétaires, quels qu’ils soient. Comme nous l’a dit Bernard Liaeter lors de sa conférence en Belgique : « Les SEL sont plus importants que jamais. Ils sont pionniers. Et c’est un défi maintenant : il faut aider les autres à suivre nos traces, mais pas forcément comme un SEL, il y a d’autres systèmes à mettre en place. Il n’y a pas de compétition entre les systèmes, mais bien une complémentarité avec le SEL. Il y a des liens à créer entre ces systèmes. Chaque système doit être stable avant de réfléchir à des interconnections. Commencer en fonctionnant en circuit fermé, puis vérifier que ces systèmes entre eux peuvent fonctionner en circuit et que ça tourne. » (Voir le dossier spécial « La Route des SEL en Belgique : http://selidaire.org/spip/article.php3?id_article=1630)
-
-Elisabeth Carbone (SEL Bellocois - 19)
+## Sources
+**(1)** Amaryllis, publié selon les termes de la licence Creative Commons BY-SA
+**(2)** Ekopedia.org, publié sous les termes de la licence Creative Commons BY-SA
