@@ -300,6 +300,8 @@ Cet article est basé sur la production d’un groupe de travail, lors de la jou
 
 Les profils des participants à la table ronde étaient assez variés, entre ceux qui cherchaient des informations pour monter un FabLab (école Estienne, Cap-Sciences, CERFAV, CCSTI Grenoble, etc.) et ceux qui avaient déjà monté le leur (PiNG, Nybicc, Peter Troxler, etc.). Merci à tous pour leur participation.
 
+### Compilation multiBàO
+par *[Quentin ISTACE](mailto:quentin21@orange.fr)*
  
 ## Sources:
 
