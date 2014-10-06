@@ -23,7 +23,7 @@ Dans la version 0.1.0 de la plateforme (celle ci), nous vous présentons un trav
 
 ## Vous voulez participer ? En savoir plus ? Une demande ?
 
-* Liste de discussion multiBàO : [s'inscrire](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao )
+* Liste de discussion multiBàO : [participer, se tenir informé(e)](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao )
 * Le facilitateur du projet 
 *Thomas WOLFF*
 *[thomas.wolff@cpcoop.fr](mailto:thomas.wolff@cpcoop.fr)*
