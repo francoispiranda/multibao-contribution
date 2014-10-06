@@ -1,6 +1,17 @@
 # Présentation
 
-**multi BàO** (multi boîtes à outils) est une plateforme en construction vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + référents de terrain) pour coopérer.
+**multi BàO** (multi boîtes à outils) est une plateforme en construction vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + référents de terrain) pour coopérer. Cette plateforme fait suite à la [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa) regroupant plus de 200 fiches méthodes/outils participatifs, compilées entre près de 30 réseaux. 
+
+Entre 32 animateurs/coordinateurs de réseaux, nous avons défini des problématiques qui posent la base de notre travail:
+- les ressources (fiches outils / méthodes ET retours d'expériences) ne sont pas interconnectés (autrement dit on ne peut pas facilement les récupérer non plus)
+- les non-initiés ont du mal à trouver la bonne ressource : il n'existe pas de trame
+- les non-initiés ont du mal à trouver la bonne ressources: les fiches ne sont pas interconnectées avec des référents de terrain, des communautés de pratique, que les utilisateurs peuvent rencontrer
+
+
+
+
+
+
 
 Bienvenue sur la première version de multiBàO : multiBàO 0.1.0. C'est pas bien gros mais on va la tester. Ici, plutôt que d'imaginer une plateforme comme ceci ou comme cela, nous vous interrogons et construisons avec vous cette multiBàO 0.1.0 : soit ça correspond à ce que vous attendiez et on gagne (*earn*), soit ça ne correspond pas et on rectifie le tir (*learn*).
 
@@ -16,7 +27,7 @@ Vous aurez compris l'idée : c'est participatif, sous licences libres et on ne p
 - les chargés de concertation
 - les développeurs agiles
 
-Compilée depuis 2012 entre ces communautés, une [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa) de plus de 200 fiches outils, une des plus grosses du web sous licences libres.
+Compilée depuis 2012 entre ces communautés, une  de plus de 200 fiches outils, une des plus grosses du web sous licences libres.
 
 Depuis 2014 ; grâce aux pratiques agiles déployées, nous construisons multiBàO ensemble / avec vous pour celles et ceux qui participent aux séries de tests, revues et interviews.
 
