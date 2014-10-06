@@ -23,11 +23,11 @@ Dans la version 0.1.0 de la plateforme (celle ci), nous vous présentons un trav
 
 ## Vous voulez participer ? En savoir plus ? Une demande ?
 
-Liste de discussion multiBàO : [s'inscrire](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao )
-Le facilitateur du projet 
+* Liste de discussion multiBàO : [s'inscrire](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao )
+* Le facilitateur du projet 
 *Thomas WOLFF*
 *[thomas.wolff@cpcoop.fr](mailto:thomas.wolff@cpcoop.fr)*
 *ou tél : [06 42 45 97 81](tel:33642459781) (entre 9h et 19h)*
-Le facilitateur du développement numérique: 
+* Le facilitateur du développement numérique: 
 *Stéphane LANGLOIS*
 *[stephane.langlois@scopyleft.fr](mailto:stephane.langlois@scopyleft.fr)*
