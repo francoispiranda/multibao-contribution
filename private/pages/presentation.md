@@ -7,22 +7,21 @@ Un collectif non formel s'est créé autour du projet, et accompagné par une [�
 Entre 32 animateurs/coordinateurs de réseaux de trois communautés de pratique différentes (animateurs/coordo de réseaux associatifs; chargés de concertation; équipes de développement agile) de France et de Belgique, nous avons défini des problématiques qui posent la base de notre travail:
 - les ressources (fiches outils / méthodes ET retours d'expériences) ne sont pas interconnectés (autrement dit on ne peut pas facilement les récupérer non plus)
 - les non-initiés ont du mal à trouver la bonne ressource : il n'existe pas de trame
-- les non-initiés ont du mal à trouver la bonne ressources: les fiches ne sont pas interconnectées avec des référents de terrain, des communautés de pratique, que les utilisateurs peuvent rencontrer
+- les non-initiés ont du mal à trouver la bonne ressource: les fiches ne sont pas interconnectées avec des contacts référents de terrain, des communautés de pratique, que les utilisateurs peuvent rencontrer / à qui ils peuvent poser gratuitement une question / par qui ils pourraient être accompagnés
 
 Dans la version 0.1.0 de la plateforme (celle ci), nous vous présentons un travail de base servant de base aux tests qui construirons 0.2 : il s'agit d'une méthode agile. 
 
-Par son format, cette plateforme est unique: 
+## Par son format, cette plateforme est unique 
 - toutes les ressources sont publiées en licence [Creative Commons](http://creativecommons.fr/licences/les-6-licences/)
 - le format permet une exportation de toutes les ressources en format openwriter, pdf, html
 - la connexion à venir avec une [API](http://fr.wikipedia.org/wiki/Interface_de_programmation) vous permettra d'exporter toutes les fiches que vous le souhaitez en quelques clics, dans le format souhaité
 - le code source de multiBàO est sous licence [MIT](http://fr.wikipedia.org/wiki/Licence_MIT), une licence ouverte permettant sa réutilisation et remix
 - le format utilisé par le codage est le format Markdown, un format facile à apprendre, transformable en html et en tout autre langage informatique
 
-On interconnecte vers des humains:
+## On interconnecte vers des humains:
 - suite à un test que nous réalisons dans le cadre des rencontres du Groupe de Recherche d'Appui au Collectif (BELGIQUE) et de la Maison des Biens Communs éphémère de Montpellier (FRANCE), nous testons différentes manière de créer une carte des référents locaux pour interconnecter les fiches ressources à des référents qui pourront répondre aux questions
 
-Vous voulez participer ? En savoir plus ? Une demande ?
---
+## Vous voulez participer ? En savoir plus ? Une demande ?
 
 La gouvernance est ouverte, ainsi que sa méthode : vous y êtes invités !
 
