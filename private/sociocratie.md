@@ -62,6 +62,9 @@ Gerard Endenburg (nl) (1933-) est un ingénieur hollandais en électrotechnique.
 - Requiert une planification rigoureuse et un suivi méticuleux notamment pendant le démarrage. **(1)**
 - Requiert beaucoup de temps **(3)**
 
+### Compilation multiBàO
+par *[Matthieu MILON](mailto:milonmatthieu@gmail.com)*
+
 ##Sources
 
 * **(1)** [Wikipedia](http://fr.wikipedia.org/wiki/Sociocratie), publié selon les termes de la licence Creative Commons BY-SA 
