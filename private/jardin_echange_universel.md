@@ -99,6 +99,9 @@ Dans l'ensemble du système, l'addition de tous les soldes des participants est 
 * Toulon : http://coin-jeu.communityforge.net
 * Creuse, Auzances: en principe le dernier dimanche du mois. Zoé : 06.16.50.37.44 **(1)** 
 
+### Compilation multiBàO
+par *[Chloé RICHAUD](mailto:chlohep@gmail.com)*
+
 ## Sources
 **(1)** Amaryllis, publié selon les termes de la licence Creative Commons BY-SA
 **(2)** Ekopedia.org, publié sous les termes de la licence Creative Commons BY-SA
