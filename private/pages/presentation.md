@@ -18,7 +18,7 @@ Dans la version 0.1.0 de la plateforme (celle ci), nous vous présentons un trav
 - le code source de multiBàO est sous licence [MIT](http://fr.wikipedia.org/wiki/Licence_MIT), une licence ouverte permettant sa réutilisation et remix
 - le format utilisé par le codage est le format Markdown, un format facile à apprendre, transformable en html et en tout autre langage informatique
 
-## On interconnecte vers des humains:
+## On interconnecte aussi/surtout vers des humains
 - suite à un test que nous réalisons dans le cadre des rencontres du Groupe de Recherche d'Appui au Collectif (BELGIQUE) et de la Maison des Biens Communs éphémère de Montpellier (FRANCE), nous testons différentes manière de créer une carte des référents locaux pour interconnecter les fiches ressources à des référents qui pourront répondre aux questions
 
 ## Vous voulez participer ? En savoir plus ? Une demande ?
