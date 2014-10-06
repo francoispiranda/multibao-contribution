@@ -8,6 +8,8 @@
 
 La notion de fab lab (contraction de l'anglais fabricationlaboratory, pouvant se traduire par laboratoire de fabrication) désigne un lieu ouvert à tous où il est mis à disposition du public toutes sortes d'outils pour la conception et la réalisation d'objets, notamment des machines-outils pilotées par ordinateur. **(1)**
 
+![Fablab](http://upload.wikimedia.org/wikipedia/commons/d/d7/Amsterdam_Fab_Lab_at_The_Waag_Society.JPG) **(2)**
+
  
 
 ## A quoi ça sert ?
@@ -306,4 +308,4 @@ Cet article est basé sur la production d’un groupe de travail, lors de la jou
 
 Les profils des participants à la table ronde étaient assez variés, entre ceux qui cherchaient des informations pour monter un FabLab (école Estienne, Cap-Sciences, CERFAV, CCSTI Grenoble, etc.) et ceux qui avaient déjà monté le leur (PiNG, Nybicc, Peter Troxler, etc.). Merci à tous pour leur participation.
 
- 
+* **(2)** Photo publiée par Rory Hyde from Amsterdam, Netherlands, sous licence Creative Commons BY-SA
