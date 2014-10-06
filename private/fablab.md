@@ -6,7 +6,7 @@
 
  
 
-La notion de fab lab (contraction de l'anglais fabricationlaboratory, pouvant se traduire par laboratoire de fabrication) désigne un lieu ouvert à tous où il est mis à disposition du public toutes sortes d'outils pour la conception et la réalisation d'objets, notamment des machines-outils pilotées par ordinateur. 
+La notion de fab lab (contraction de l'anglais fabricationlaboratory, pouvant se traduire par laboratoire de fabrication) désigne un lieu ouvert à tous où il est mis à disposition du public toutes sortes d'outils pour la conception et la réalisation d'objets, notamment des machines-outils pilotées par ordinateur. **(1)**
 
  
 
@@ -17,7 +17,7 @@ La notion de fab lab (contraction de l'anglais fabricationlaboratory, pouvant se
 * Fabrication d'objets uniques
 * Rencontre conviviale et créative 
 * Liens intergénérationnels (parfois) 
-* Mutualisation de matériel et de compétences
+* Mutualisation de matériel et de compétences **(1)**
 
  
 
@@ -37,7 +37,7 @@ Deux manières principales de mettre en place un FabLab ont été identifiées:
 
  
 
-On pourrait les qualifier de ‘top-down’ ou ‘bottom-up’. Ces deux approches peuvent bien sûr se compléter, chacune ayant ses avantages et inconvénients. 
+On pourrait les qualifier de ‘top-down’ ou ‘bottom-up’. Ces deux approches peuvent bien sûr se compléter, chacune ayant ses avantages et inconvénients.  **(1)**
 
  
 
@@ -77,7 +77,7 @@ Voici les étapes simplifiées et résumées en français :
 
 11. Mettez votre site à jour.
 
-12. Faites une ouverture officielle (avec des snacks / boissons / stars locales).
+12. Faites une ouverture officielle (avec des snacks / boissons / stars locales). **(1)**
 
  
 
@@ -122,7 +122,7 @@ Engagement des sponsors / supporters. Faut-il prévoir un support supplémentair
 
 11. Durabilité
 
-Comment assurer la pérennité du FabLab? Le FabLab est-il dépendant d’évènements extérieurs?
+Comment assurer la pérennité du FabLab? Le FabLab est-il dépendant d’évènements extérieurs? **(1)**
 
  
 
@@ -172,7 +172,7 @@ On y trouve:
 
 total : 4,5k€
 
-C’est aussi comme ça qu’a été ouvert le FabLab de Amersfroort (pdf en anglais / FabLab in 7 days).
+C’est aussi comme ça qu’a été ouvert le FabLab de Amersfroort (pdf en anglais / FabLab in 7 days). **(1)**
 
  
 
@@ -280,7 +280,7 @@ Il faudra sans doute aussi mettre en place un système de mailing list, de liste
 
 La documentation des projets fait partie de l’ADN des Fablabs, mais se fait de manière différente dans chacun d’eux. Aucun ne semble avoir trouvé une manière optimale de le faire. A vous, donc, de réfléchir et tenter de résoudre cette problématique.
 
-Cette dernière partie reste aujourd’hui à développer, chaque FabLab utilisant pour l’instant une couche logicielle différente.
+Cette dernière partie reste aujourd’hui à développer, chaque FabLab utilisant pour l’instant une couche logicielle différente. **(1)**
 
 ## Le réseau des FabLabs francophones
 
@@ -292,7 +292,7 @@ Nous proposons de structurer le réseau autour de 2 axes principaux:
 
 Au Pays-Bas, les FabLabs sont regroupés dans une fondation. Les Fabmanagers des différents FabLabs se réunissent à intervalle régulier. Le principe d’attribution du nom ‘FabLab’ est déclaratif. C’est à dire que les responsables vont dire ‘je suis un FabLab, puis se donner des notes de A à D sur chacun des aspects de la charte du FabLab.
 
-PiNG travaille sur une cartographie des ateliers de fabrication numérique en France et dans les pays francophones, qui sera bientôt disponible.
+PiNG travaille sur une cartographie des ateliers de fabrication numérique en France et dans les pays francophones, qui sera bientôt disponible. **(1)**
 
 
 ### Compilation multiBàO
