@@ -206,7 +206,7 @@ total : ~13k€
 
 Le MIT a une liste de machines assez bien fournie:
 
-fab.cba.mit.edu/about/fab/inv.html
+*  fab.cba.mit.edu/about/fab/inv.html
 
 Elle est basée principalement sur des machines du commerce.
 
@@ -232,17 +232,17 @@ total: 50k€
 
 ** A regarder aussi : **
 
-oomlout.com/a/products/cnc1/
+* oomlout.com/a/products/cnc1/
 
-makerbot.com
+* makerbot.com
 
-iprocam.com/accueil/index.htm
+* iprocam.com/accueil/index.htm
 
-ladyada.net/make/usbtinyisp/
+* ladyada.net/make/usbtinyisp/
 
 Le MIT a aussi une liste de machines DIY:
 
-mtm.cba.mit.edu/
+* mtm.cba.mit.edu/
 
  
 
@@ -250,31 +250,31 @@ mtm.cba.mit.edu/
 
 Le FabLab d’Amersfoort décrit les outils nécessaires ainsi:
 
-Crunchbang Linux (crunchbanglinux.com) une version légère et modulaire de Linux qui peut tourner sur du vieux matériel
+* Crunchbang Linux (crunchbanglinux.com) une version légère et modulaire de Linux qui peut tourner sur du vieux matériel
 
-Inkscape (inkscape.org/) logiciel Open-source de dessin vectoriel 2D,
+* Inkscape (inkscape.org/) logiciel Open-source de dessin vectoriel 2D,
 
-Blender (blender.org/) logiciel Open-source de dessin 3D,
+* Blender (blender.org/) logiciel Open-source de dessin 3D,
 
-Pycam (pycam.sourceforge.net/) logiciel Open-source permettant de générer des parcours d’outil pour une fraiseuse CNC 3 axes.
+* Pycam (pycam.sourceforge.net/) logiciel Open-source permettant de générer des parcours d’outil pour une fraiseuse CNC 3 axes.
 
-ReplicatorG3D (replicat.org/) petit logiciel Open-source permettant de contrôler une imprimante 3D.
+* ReplicatorG3D (replicat.org/) petit logiciel Open-source permettant de contrôler une imprimante 3D.
 
-Processing (processing.org) logiciel Open-source de programmation.
+* Processing (processing.org) logiciel Open-source de programmation.
 
-Ekiga (ekiga.org) logiciel de VoIP (Voice over IP) qui permet de se connecter à la chaine FabLab.
+* Ekiga (ekiga.org) logiciel de VoIP (Voice over IP) qui permet de se connecter à la chaine FabLab.
 
-Hypha (hypha.net) cms / wiki permettant de mettre en place un site flexible très rapidement.
+* Hypha (hypha.net) cms / wiki permettant de mettre en place un site flexible très rapidement.
 
 Ce à quoi, nous ajoutons:
 
-Yammer (yammer.com/) réseau social. Twitter interne permettant de communiquer facilement entre les membres d’une équipe
+* Yammer (yammer.com/) réseau social. Twitter interne permettant de communiquer facilement entre les membres d’une équipe
 
-IRC (wikipedia.org/wiki/Internet_Relay_Chat) permettant de chatter
+* IRC (wikipedia.org/wiki/Internet_Relay_Chat) permettant de chatter
 
-Big Blue Button (bigbluebutton.org/) Système de web conferencing Open-source (spécialement dédié à l’éducation)
+* Big Blue Button (bigbluebutton.org/) Système de web conferencing Open-source (spécialement dédié à l’éducation)
 
-ToonLoop (toonloop.com/) pour faire des vidéos en time-lapse
+* ToonLoop (toonloop.com/) pour faire des vidéos en time-lapse
 
 Il faudra sans doute aussi mettre en place un système de mailing list, de liste de diffusion (discussion), un wiki, un espace de dépôt (Git), un flickr, etc.
 
@@ -282,29 +282,28 @@ La documentation des projets fait partie de l’ADN des Fablabs, mais se fait de
 
 Cette dernière partie reste aujourd’hui à développer, chaque FabLab utilisant pour l’instant une couche logicielle différente.
 
-Le réseau des FabLabs francophones
+## Le réseau des FabLabs francophones
 
 Nous proposons de structurer le réseau autour de 2 axes principaux:
 
-fablabsquared.org, qui pourrait rester la boite à outils (comment / combien / etc.)
+* fablabsquared.org, qui pourrait rester la boite à outils (comment / combien / etc.)
 
-fablab.fr ou fablab-fr.org, qui pourrait être la vitrine des FabLabs francophones et de ce qui s’y passe. On pourra y retrouver les projets en cours.
+* fablab.fr ou fablab-fr.org, qui pourrait être la vitrine des FabLabs francophones et de ce qui s’y passe. On pourra y retrouver les projets en cours.
 
 Au Pays-Bas, les FabLabs sont regroupés dans une fondation. Les Fabmanagers des différents FabLabs se réunissent à intervalle régulier. Le principe d’attribution du nom ‘FabLab’ est déclaratif. C’est à dire que les responsables vont dire ‘je suis un FabLab, puis se donner des notes de A à D sur chacun des aspects de la charte du FabLab.
 
 PiNG travaille sur une cartographie des ateliers de fabrication numérique en France et dans les pays francophones, qui sera bientôt disponible.
 
- 
-
-Cet article est basé sur la production d’un groupe de travail, lors de la journée du 23 juin, à la Cité des Sciences. Cette journée, organisée par nod-A dans le cadre du projet FabLab Squared, avait pour objectif de sensibiliser les participants aux enjeux liés à a fabrication numérique et de générer ensemble des pistes de réflexion. nod-A, en s’appuyant sur ses principes de SmartMobs, a organisé cette journée de manière à ce chacun puisse trouver des réponses à ses questions et que soient posées les bases de futures collaborations. Cet article résume ce qui a été produit dans le groupe de travail ‘profession FabLab’. Il est destiné à être nourri et à évoluer, mais surtout, il rejoindra dès que possible le site francophone de la communauté FabLab.
-
-Les profils des participants à la table ronde étaient assez variés, entre ceux qui cherchaient des informations pour monter un FabLab (école Estienne, Cap-Sciences, CERFAV, CCSTI Grenoble, etc.) et ceux qui avaient déjà monté le leur (PiNG, Nybicc, Peter Troxler, etc.). Merci à tous pour leur participation.
 
 ### Compilation multiBàO
 par *[Quentin ISTACE](mailto:quentin21@orange.fr)*
  
 ## Sources:
 
-http://nod-a.com/2011/08/guide-de-montage-dun-fablab/  
+* **(1)** [Nod-A](http://nod-a.com/2011/08/guide-de-montage-dun-fablab), publié sous licence Creative Commons BY-SA
+
+Cet article est basé sur la production d’un groupe de travail, lors de la journée du 23 juin, à la Cité des Sciences. Cette journée, organisée par nod-A dans le cadre du projet FabLab Squared, avait pour objectif de sensibiliser les participants aux enjeux liés à a fabrication numérique et de générer ensemble des pistes de réflexion. nod-A, en s’appuyant sur ses principes de SmartMobs, a organisé cette journée de manière à ce chacun puisse trouver des réponses à ses questions et que soient posées les bases de futures collaborations. Cet article résume ce qui a été produit dans le groupe de travail ‘profession FabLab’. Il est destiné à être nourri et à évoluer, mais surtout, il rejoindra dès que possible le site francophone de la communauté FabLab.
+
+Les profils des participants à la table ronde étaient assez variés, entre ceux qui cherchaient des informations pour monter un FabLab (école Estienne, Cap-Sciences, CERFAV, CCSTI Grenoble, etc.) et ceux qui avaient déjà monté le leur (PiNG, Nybicc, Peter Troxler, etc.). Merci à tous pour leur participation.
 
  
