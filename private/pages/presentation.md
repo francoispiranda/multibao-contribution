@@ -1,9 +1,10 @@
 # Présentation
 
-**multi BàO** (multi boîtes à outils) est une plateforme vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + contact pour vous aider) pour coopérer. Vous êtes sur la version 1.1 de la plateforme; à ce jour nous construisons la version 1.2. 
+**multi BàO** (multi boîtes à outils) est une plateforme vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + contact pour vous aider) pour coopérer. 
 
-Cette plateforme se construit en réseau : toutes et tous sont invités à participer. 
+Cette plateforme se construit en réseau : toutes et tous sont invités à participer. Vous êtes sur la version 1.1 de la plateforme; à ce jour nous construisons la version 1.2. Dans ce projet, les participant(e)s semblent prendre le temps de se rencontrer, de tester les hypothèses, d'apprendre et de mettre en commun. 
 
+## Zoom
 Entre 32 animateurs/coordinateurs de réseaux de trois communautés de pratique différentes (animateurs/coordo de réseaux associatifs; chargés de concertation; équipes de développement agile) de France et de Belgique, autrement dit des utilisateurs d'outils/méthodes participatives, nous avons défini des problématiques/besoins qui expliquent la base de la création d'une multi boîte à outils. 
 - "des fiches outils/méthodes, c'est bien beau, mais elles ne sont la plupart du temps même pas connectées avec les retours d'expérience eux aussi éparpillés sur le web. On ne peut pas non plus facilement les réutiliser, même si elles sont publiées en licences ouvertes autorisant la modification: il faut faire des copier/coller depuis les sites et bien que des documents autorisent la modification ils ne sont pas disponibles sous format openwrite/word, il y a des pdf, des mises en pages graphiques compliquées, on ne peut pas les importer facilement sur nos sites... bref le bordel souvent pour les trouver et les réutiliser!)"
 - "Si on n'y connaît pas grand chose, difficile de trouver la bonne ressource là dedans: il n'existe pas de trame"
