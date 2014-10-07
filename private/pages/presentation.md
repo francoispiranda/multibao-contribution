@@ -13,9 +13,9 @@ On ne peut pas non plus facilement les réutiliser, beaucoup ne sont pas en lice
 
 ## Par son format, cette plateforme est unique 
 - toutes les ressources sont publiées en licence [Creative Commons](http://creativecommons.fr/licences/les-6-licences/). Une équipe se charge de demander la mise à disposition de ressources sous licences ouvertes aux auteurs lorsque cela n'est pas déjà fait. 100% réussite à ce jour. 
-- le format permet une exportation de toutes les ressources en format openwriter, pdf, html
+- le format permet une exportation de toutes les ressources en format openwriter, pdf, html. 
 - la connexion à venir avec une [API](http://fr.wikipedia.org/wiki/Interface_de_programmation) vous permettra d'exporter toutes les fiches que vous le souhaitez en quelques clics, dans le format souhaité
-- le code source de multiBàO est sous licence [MIT](http://fr.wikipedia.org/wiki/Licence_MIT), une licence ouverte permettant sa réutilisation et remix. Tout le code est disponible [ici](https://github.com/scopyleft/multibao-contribution)
+- le code source de multiBàO est sous licence [MIT](http://fr.wikipedia.org/wiki/Licence_MIT), une licence libre indiquant que toute la structure du site, des plus petites applications jusqu'à l'intégralité des fiches, est exportable/importable/réutilisable. Le code est disponible [ici](https://github.com/scopyleft/multibao-contribution)
 - le format utilisé par le codage est le format Markdown, un format facile à apprendre, transformable en html et en tout autre langage informatique. En 15mn vous saurez l'utiliser, c'est beaucoup plus facile que du Word.
 
 ## On interconnecte aussi/surtout vers des humains
