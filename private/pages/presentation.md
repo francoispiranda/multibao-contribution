@@ -1,8 +1,10 @@
 # Présentation
 
-**multi BàO** (multi boîtes à outils) est une plateforme en construction vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + référents de terrain) pour coopérer. Cette plateforme fait suite à la [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa) regroupant plus de 200 fiches méthodes/outils participatifs, compilées entre près de 30 réseaux par des bénévoles de [l'association du centre des pratiques de la coopération](http://cpcoop.fr), l'intégralité sous licences ouvertes.
+**multi BàO** (multi boîtes à outils) est une plateforme en construction vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + référents de terrain) pour coopérer. Cette plateforme fait suite à la [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa) regroupant plus de 100 fiches méthodes/outils participatifs, compilées entre près de 30 réseaux par des bénévoles de [l'association du centre des pratiques de la coopération](http://cpcoop.fr) et des étudiants de l'[Université de Montpellier](https://www.univ-montp2.fr), l'intégralité sous licences ouvertes.
 
-Un collectif non formel s'est créé autour du projet, et accompagné par une [équipe de développement agile](http://scopyleft.fr) financée par l'Europe, la programmation de la plateforme a débutée. 
+Un collectif non formel, bénévole, s'est créé autour du projet; et à ce jour nous avons compilé plus de 200 fiches méthodes/outils et en testé plus de 60. 
+
+Accompagné par une [équipe de développement agile](http://scopyleft.fr) financée par l'Europe, a débutée la programmation de la plateforme. 
 
 Entre 32 animateurs/coordinateurs de réseaux de trois communautés de pratique différentes (animateurs/coordo de réseaux associatifs; chargés de concertation; équipes de développement agile) de France et de Belgique, nous avons défini des problématiques qui posent la base de notre travail:
 - les ressources (fiches outils / méthodes ET retours d'expériences) ne sont pas interconnectés (autrement dit on ne peut pas facilement les récupérer non plus)
