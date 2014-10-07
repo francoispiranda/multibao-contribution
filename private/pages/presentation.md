@@ -2,7 +2,7 @@
 
 **multi BàO** (multi boîtes à outils) est une plateforme vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + contact pour vous aider) pour coopérer. 
 
-Cette plateforme se construit en réseau : toutes et tous sont invités à participer. Vous êtes sur la version 1.1 de la plateforme; à ce jour nous construisons la version 1.2. Dans ce projet, les participant(e)s semblent prendre le temps de se rencontrer, de tester les hypothèses, d'apprendre et de mettre en commun. 
+Cette plateforme se construit en réseau : toutes et tous sont invités à participer. Vous êtes sur la version 1.1 de la plateforme; à ce jour nous construisons la version 1.2. Dans ce projet, nous prenons le temps de nous rencontrer, de tester les hypothèses, d'apprendre, de mettre en commun et de respecter chaque contribution, aussi petite soit-elle. C'est le souhait de tous les participant(e)s à ce jour. 
 
 ## Zoom
 Entre 32 animateurs/coordinateurs de réseaux de trois communautés de pratique différentes (animateurs/coordo de réseaux associatifs; chargés de concertation; équipes de développement agile) de France et de Belgique, autrement dit des utilisateurs d'outils/méthodes participatives, nous avons défini des problématiques/besoins qui expliquent la base de la création d'une multi boîte à outils. 
