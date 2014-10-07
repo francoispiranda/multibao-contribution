@@ -1,6 +1,6 @@
 # Présentation
 
-**multi BàO** (multi boîtes à outils) est une plateforme en construction vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + référents de terrain) pour coopérer. Cette plateforme fait suite à la [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa) regroupant plus de 200 fiches méthodes/outils participatifs, compilées entre près de 30 réseaux par des bénévoles par des bénévoles de [l'association du centre des pratiques de la coopération](http://cpcoop.fr), l'intégralité sous licences ouvertes.
+**multi BàO** (multi boîtes à outils) est une plateforme en construction vous permettant de disposer librement de la bonne ressource (fiche outil/méthode/retour d'expérience + référents de terrain) pour coopérer. Cette plateforme fait suite à la [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa) regroupant plus de 200 fiches méthodes/outils participatifs, compilées entre près de 30 réseaux par des bénévoles de [l'association du centre des pratiques de la coopération](http://cpcoop.fr), l'intégralité sous licences ouvertes.
 
 Un collectif non formel s'est créé autour du projet, et accompagné par une [équipe de développement agile](http://scopyleft.fr) financée par l'Europe, la programmation de la plateforme a débutée. 
 
