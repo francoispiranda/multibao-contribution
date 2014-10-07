@@ -16,10 +16,11 @@ On ne peut pas non plus facilement les réutiliser, beaucoup ne sont pas en lice
 - le format permet une exportation de toutes les ressources en format openwriter, pdf, html. 
 - la connexion à venir avec une [API](http://fr.wikipedia.org/wiki/Interface_de_programmation) vous permettra d'exporter toutes les fiches que vous le souhaitez en quelques clics, dans le format souhaité
 - le code source de multiBàO est sous licence [MIT](http://fr.wikipedia.org/wiki/Licence_MIT), une licence libre indiquant que toute la structure du site, des plus petites applications jusqu'à l'intégralité des fiches, est exportable/importable/réutilisable. Le code est disponible [ici](https://github.com/scopyleft/multibao-contribution)
-- le format utilisé par le codage est le format Markdown, un format facile à apprendre, transformable en html et en tout autre langage informatique. En 15mn vous saurez l'utiliser, c'est beaucoup plus facile que du Word.
+- le format utilisé pour l'écriture des fiches est le language Markdown, un language dix fois plus simple que le word, avec une mise en page automatique. Pour les contributeurs/euses nous organisons une formation de ... 5mn pour vous initier à ce language. 
 
 ## On interconnecte aussi/surtout vers des humains
 - suite à des tests que nous réalisons dans le cadre des rencontres du Groupe de Recherche d'Appui au Collectif (BELGIQUE) et de la Maison des Biens Communs éphémère de Montpellier (FRANCE), nous testons différentes manière de créer une carte des référents locaux pour interconnecter les fiches ressources à des référents qui pourront répondre aux questions
+- les participant(e)s du projet sont tous en lien direct ou indirect, c'est avant tout un réseau
 
 ## On ne part pas de rien! 
 Cette plateforme fait suite à la [base de données brutes](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa) regroupant plus de 100 fiches méthodes/outils participatifs, compilées entre près de 30 réseaux par un collectif de bénévoles (via [l'association du centre des pratiques de la coopération](http://cpcoop.fr) et l'[Université de Montpellier](https://www.univ-montp2.fr)), l'intégralité sous licences ouvertes.
