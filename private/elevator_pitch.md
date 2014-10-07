@@ -4,7 +4,7 @@
 
 Cet atelier est utilisé dans le cadre de Gymkhana pour aider les participants à remplir rapidement plusieurs parties du canevas.
 
-Ce qu'il faut pour démarrer
+Ce qu'il faut pour démarrer 
 
 ## Une idée
 
