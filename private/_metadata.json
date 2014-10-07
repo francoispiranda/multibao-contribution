@@ -3,83 +3,83 @@
     "updated": "22/09/2014",
     "slug": "elevator_pitch",
     "title": "Elevator pitch",
-    "tag": "CC BY-SA"
+    "tag": "Avancé"
   },
 
   "2": {
     "updated": "01/09/2014",
     "slug": "debat_mouvant",
     "title": "Débat mouvant",
-    "tag": "CC BY-SA"
+    "tag": "Intermédiaire"
   },
 
   "3": {
     "updated": "16/08/2014",
     "slug": "kanban",
     "title": "Kanban simplifié",
-    "tag": "CC BY-SA"
+    "tag": "Débutant"
   },
 
   "4": {
     "updated": "25/08/2014",
     "slug": "cercle_excentrique",
     "title": "Cercle excentrique",
-    "tag": "CC BY-SA"
+    "tag": "Intermédiaire"
   },
 
   "5": {
     "updated": "01/09/2014",
     "slug": "budget_participatif",
     "title": "Budget participatif",
-    "tag": "CC BY-NC-SA"
+    "tag": "Expert"
   },
 
   "6": {
     "updated": "01/09/2014",
     "slug": "investigation_appreciative",
     "title": "Investigation appréciative",
-    "tag": "CC BY-NC-SA"
+    "tag": "Intermédiaire"
   },
 
   "7": {
     "updated": "01/09/2014",
     "slug": "world_cafe",
     "title": "World café",
-    "tag": "CC BY-SA"
+    "tag": "Intermédiaire"
   },
 
   "8": {
     "updated": "01/09/2014",
     "slug": "brain_storming",
     "title": "Brain storming",
-    "tag": "CC BY-SA"
+    "tag": "Débutant"
   },
 
   "9": {
     "updated": "01/09/2014",
     "slug": "forum_ouvert",
     "title": "Forum ouvert",
-    "tag": "CC BY-SA"
+    "tag": "Intermédiaire"
   },
   
   "10": {
    "updated": "01/10/2014",
    "slug": "fablab",
    "title": "FabLab",
-   "tag": "CC BY-SA"
+   "tag": "Avancé"
   },
   
  "11": {
    "updated": "01/10/2014",
    "slug": "jardin_echange_universel",
    "title": "Jardin d'Echange Universel",
-   "tag": "CC BY-SA"
+   "tag": "Intermédiaire"
   },
   
   "12": {
    "updated": "03/10/2014",
    "slug": "sociocratie",
    "title": "Sociocratie",
-   "tag": "CC BY-SA"
+   "tag": "Avancé"
   }
 }
